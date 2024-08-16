@@ -1,21 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bsl-shaders.pw.toml"
-hash = "24f19ee165cc4584503779f9a1897e60fd173d626ff49bf81d8a06c685d989ab"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
-metafile = true
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -946,11 +931,6 @@ hash = "78511a2d7dd08de2e482d19549349001801f4f113ce53ae7882452430628a497"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
-
-[[files]]
-file = "insanity-shader.pw.toml"
-hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
-metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
@@ -2132,6 +2112,26 @@ hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
 metafile = true
 
 [[files]]
-file = "sildurs-vibrant-shaders.pw.toml"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "24f19ee165cc4584503779f9a1897e60fd173d626ff49bf81d8a06c685d989ab"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
 hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
 metafile = true
