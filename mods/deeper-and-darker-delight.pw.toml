@@ -1,0 +1,13 @@
+name = "Deeper and Darker Delight"
+filename = "deeperdarkerdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f01ab1e1b129d08af77750c55d115a014831be73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5608577
+project-id = 1077628

@@ -1,0 +1,13 @@
+name = "Fabulous Foliage"
+filename = "Fabulous Foliage.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "618c2a1dc4cc4a41940e19cce6e533273d21ba84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4664927
+project-id = 879787

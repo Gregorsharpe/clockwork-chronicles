@@ -1,0 +1,12 @@
+name = "Carnival of Horrors"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e8b6d65ce82dd378c98d03925a2639df708b3f52d23a8f8b5582b07ca429060"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"

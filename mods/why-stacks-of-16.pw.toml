@@ -1,0 +1,13 @@
+name = "Why stacks of 16?"
+filename = "wso16-forge-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbcf86da7c73f00167df0719d3b7a099e3d5e883"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4009712
+project-id = 664298

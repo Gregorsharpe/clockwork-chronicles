@@ -1,0 +1,13 @@
+name = "AL's Golems Revamped"
+filename = "AL's Golems Revamped 1.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d84528fe1b0ad12911b5de213b0357a4c0ccd079"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5294914
+project-id = 940531

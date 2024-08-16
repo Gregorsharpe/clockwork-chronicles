@@ -1,0 +1,13 @@
+name = "Meow Society"
+filename = "Meow Society.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c23db6afcaf8b5d996ccbfa81c8ab65374a14e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5005549
+project-id = 826700

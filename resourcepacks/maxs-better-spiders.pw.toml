@@ -1,0 +1,13 @@
+name = "Better Spiders"
+filename = "Better Spiders.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "142d984b6c95f9f0184441460010ec1903bf5a56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5446838
+project-id = 669949

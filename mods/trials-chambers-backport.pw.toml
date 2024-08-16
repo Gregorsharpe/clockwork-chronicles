@@ -1,0 +1,13 @@
+name = "Trials Chambers [1.20.1 Backport]"
+filename = "Trials-2.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1137cd352732b5c8e72907fa71f44ca476bbdbf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5594612
+project-id = 1012027
