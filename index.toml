@@ -973,11 +973,6 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "3a563cec62a27bffa896631b5560d2f546ff2623ab9e2cabfeced7904c09c5d8"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
@@ -1011,6 +1006,10 @@ metafile = true
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-forge-1.20.1-3.17.0.jar"
+hash = "de13e22c32f269f10dd8bcb3bf658fff1160071835ca6a9b09cf8fdcff0a4085"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -1713,14 +1712,13 @@ hash = "c9f85c52479c22b77a6f7dc3d6f4a0ce9670bf8866a23790eb1941e2ce96e1aa"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "a7ef1d4b49a5c1ad4ddb1206240550812572a913c50ca87adfe32b04d1317967"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "165612664bf8ecd6f5d3ff6a6181293cc1233116f72c71c7a1cbb8c59aca1944"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-forge-1.7.4-mc1.20.1.jar"
+hash = "103fca50b60ae327db0241560f45d7152a265252c13ced93fd0681a9c986fa8c"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -1773,9 +1771,8 @@ hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
-metafile = true
+file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
@@ -1843,9 +1840,8 @@ hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "c877df4b34ea1cb5d93d6c6fa61da4ab5ae77a6606414c362918e6ee6916245b"
-metafile = true
+file = "mods/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
+hash = "cf391181e247e9c2a182e971e784cbe102f5f9531892dbc642507e06928e57c1"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
@@ -2023,8 +2019,32 @@ hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Better Spiders.zip"
+hash = "891d1e219c1f59ba3ecfb8b2b3bc40297f5b95f60b1bc1bf82cc6f0c118a1d28"
+
+[[files]]
+file = "resourcepacks/Better Villagers.zip"
+hash = "2cfb3c6b821a49e189da0e495640e2f86a1f3d6c86cee6781279a1f1fe55f25c"
+
+[[files]]
+file = "resourcepacks/Better illagers.zip"
+hash = "db3ac585283ee67d2659b9351d550e7af2fedadb35b3a0b2c0fd2ad20149c804"
+
+[[files]]
+file = "resourcepacks/Fabulous Foliage.zip"
+hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
+
+[[files]]
+file = "resourcepacks/Meow Society.zip"
+hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
+
+[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "resourcepacks/SmoothFont_1.20.zip"
+hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
 
 [[files]]
 file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
@@ -2092,23 +2112,8 @@ hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-illagers.pw.toml"
-hash = "03905aca35d3c4455a926f64a29c4e02340faa794f11592861165c34643f42d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-villagers.pw.toml"
-hash = "67045e8853296460d0d08869c4db6e10da141afde442e8b0d69cdb11d110429a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/cave-dweller-sound-overhaul.pw.toml"
 hash = "a19637de1c960c12cc71ef73eecd1544e8d784122d562b4fb91c5112665fb67f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fabulous-foliage.pw.toml"
-hash = "04bc16b0420fafccc7d2ea24a6da3ce667879aee1dec35eb81fe3376bc875d44"
 metafile = true
 
 [[files]]
@@ -2119,21 +2124,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/maxs-better-spiders.pw.toml"
-hash = "12c07d44bc6e90424b253b2da2aeb465a1e1c6be767dcd3f608779efaa0d58bd"
-metafile = true
-
-[[files]]
-file = "resourcepacks/meow-society.pw.toml"
-hash = "bfbc42322085b3f1d67cfbecff811c09d239e7b96ae9d173156c1e32998430b1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/smooth-font.pw.toml"
-hash = "e36964ead5faa5871102653cc91f9a2bfa444bdafaf5b594d9f5083502982b43"
 metafile = true
 
 [[files]]
