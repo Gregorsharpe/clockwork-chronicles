@@ -1,6 +1,6 @@
 name = "Fast IP Ping"
 filename = "fast-ip-ping-mc1.20.4-forge-v1.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

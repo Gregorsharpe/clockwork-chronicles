@@ -1,6 +1,6 @@
 name = "LuckPerms"
 filename = "LuckPerms-Forge-5.4.102.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
@@ -11,6 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4738950
 project-id = 431733
-
-[option]
-optional = true

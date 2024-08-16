@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "79a3fb06122208f61eede6e34a4ed3ea15107cd89ebcbfd8afc2903a6fa01a8a"
+hash = "a81b55c3e33ab58d7b9af0f65728b24f11357b81d7ce567038a274f85c7dba92"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "70cb54081f56a748b298a87d1825bac70405d4b4a28c4a4f18228691930baa34"
+hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
 
 [[files]]
@@ -1049,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped-express.pw.toml"
-hash = "0a6803c957058f3c42b6e59f98b6a54f0c861c6ea404303a52668ce28d63d416"
+hash = "4851ae0296753d6e99cadbbbc887a459fb8bc9471c8c0b1d68536871f9272cb8"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "73108be80a7a50787e933cbb4b0c39ae6c3fcf59c68781fe731d2f692ff9f4e9"
+hash = "2e6864b02f2a52d0c5db3aca95f93017a2c99b932a727d2d77e4342796b67a76"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "a7f86043961b9645bd52000b0083193ca8dda09cc30e53810019491b57f33d57"
+hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
 metafile = true
 
 [[files]]
@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "abf68c7b90b93d7223c6ed856e7a4ae89ebdccf7780277e4de6aa3d707f7e27f"
+hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
 metafile = true
 
 [[files]]
@@ -1259,12 +1259,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4f5493c1856783040fc205cfaf2b14ac49859aa36ead64496eaa163f5514b904"
+hash = "691afdd6874616c5be440d7d4606ff63b9d3876486bd512c3cefbd545369b22a"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "0a5fdf4a406be6ebe630700d2876d1cbf0eb501bf8895058d4a010e45fcdbebe"
+hash = "67c52a10ef6576b3f254f430c6dea86fcaa75ef53259a906c9c313bc0b919172"
 metafile = true
 
 [[files]]
@@ -1289,17 +1289,17 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
+hash = "a6313c759ee8e9ab0afb8fc056c6ce6d2be7ee87063c0ec85905b83302382af0"
 metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "96b4f076531d93845801037766543ef06c7c07cb631f7f24db06c2a3296bfaa0"
+hash = "a42fdedc362ee0f999f5390ed23e340d38c4dacccc32b47df6521f5ab128a529"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "5f02c5fb3ba1f2ff92220c0a93f6268b386f6d0266e5e2d0bd7135f2bb203c4e"
+hash = "a442f2edbae60477a90fb79122cc96bf8b2dc9639a69edd9c12881f19ecf43e9"
 metafile = true
 
 [[files]]
@@ -1324,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckoanimfix.pw.toml"
-hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
+hash = "9b4a906d49c3b11dc875034eb3ba38b8ccc0b5faa2db42447385ec3ec0bb71e8"
 metafile = true
 
 [[files]]
@@ -1413,8 +1413,9 @@ hash = "c13c08f6d9ad7a8f2939f6bb5e55f7953fc465d8d29756b957035fc1dbf05a8a"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-651.jar"
-hash = "a0f6b87b271655065f8cd8cc1185696ba04e6b0b46362ec40219401d37550db2"
+file = "mods/hexcasting.pw.toml"
+hash = "c1bf18f632a3682893629366e7b70ef636a5260a4bc7c5a654ab9934f3a9a0e1"
+metafile = true
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
@@ -1428,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dcef11b4a1c64a35412c41868fc7afbe648c575eacf1f70194fb3ed92552758e"
+hash = "eff372a9c4a8cb37ebbcd4bad6d4e9ec6fd6f06930a7a77e72fede477463f60b"
 metafile = true
 
 [[files]]
@@ -1453,7 +1454,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "a6f1034f2f82d3342aec38d6f80fdded8e022a747514ab388692c30afce4f8e9"
+hash = "27b38ca3ccd7a464959add84f03c3380743a1b134ab8ea725214223ddf8861b3"
 metafile = true
 
 [[files]]
@@ -1513,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "3ec2ca23e150731b25c0999c5afc766fb3b8eeff7ff0d4a2180f3c106ef8cfa8"
+hash = "87139f6e32088004ed961a10bf2206da8548edc2acf34039dbcf20a070599f53"
 metafile = true
 
 [[files]]
@@ -1563,12 +1564,12 @@ metafile = true
 
 [[files]]
 file = "mods/leaky.pw.toml"
-hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
+hash = "ba3aa25a5f522e55225ad0bc52bc4011864ad5fe24ca25dbea32fb7dde29753f"
 metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "f19f61fcce9df3befee6d0d6096a93a9646f93766b2523b27e7903da81e4269b"
+hash = "be567e2446089e2772e1b894ce688c5e914e5a0281002cc43aeab48e247e9688"
 metafile = true
 
 [[files]]
@@ -1578,12 +1579,12 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
+hash = "72d623a34407451b57f3041449c89c80bdd721ed6c030b2af2955ed79fcdb338"
 metafile = true
 
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
-hash = "ec4a1d920bd1b52bc31dc6546870bee92e450a4d6accfcd6cf96fd6b6f594be9"
+hash = "662740d6fee8d8b38dcfd040d62ab897090084bf9fbe1578a70ae5692d898501"
 metafile = true
 
 [[files]]
@@ -1598,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "b8588a44aee18121faaa66eef3711661283119edc50a59f3e1284c374efd94b5"
+hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
 metafile = true
 
 [[files]]
@@ -1673,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -1738,7 +1739,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -1747,8 +1748,9 @@ hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
 metafile = true
 
 [[files]]
-file = "mods/paucal-forge-1.20.1-0.6.0-pre-118.jar"
-hash = "26d453f649485b2be056a7b8450a212c5a6866c98fc4f2d6cc64fe04f645fb53"
+file = "mods/paucal.pw.toml"
+hash = "95c5ee17533708db1a72cba9bf57c388780e66086d2b3a6084d4586fae7dae30"
+metafile = true
 
 [[files]]
 file = "mods/pickable-pets.pw.toml"
@@ -1782,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
-hash = "f714a54b3cffdaf560c6a3b1f6a71881a630381ecb316d20a43a97bb3a01590b"
+hash = "dc322b58b3e8cfe01af99cec06489fe452670c5bb0b48973297788d008f7aa1c"
 metafile = true
 
 [[files]]
@@ -1827,12 +1829,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "bac0e6557f54b428ec06c687957469f2d1d01d71bc9f9c5adb4696ce6651c6f2"
+hash = "5961bc14c1f78f60cb33a26b3ff95621184ae4a3a450f8d5412d8141b5809c71"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "1107c941dcd4b1678ad79b8a29648457343e6aac9e373c8f5af99935140e6066"
+hash = "986e846f6f2d007d441bd76f4b768e36c7e18ac531c4edbfea7f22375242a88e"
 metafile = true
 
 [[files]]
@@ -1842,7 +1844,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "42ace0b4f364729bf99e7792312fa8b2830e505eaa0eeaf3cc590b0751e3053d"
+hash = "c877df4b34ea1cb5d93d6c6fa61da4ab5ae77a6606414c362918e6ee6916245b"
 metafile = true
 
 [[files]]
@@ -1857,7 +1859,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
 
 [[files]]
@@ -1922,7 +1924,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
@@ -1967,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
 
 [[files]]

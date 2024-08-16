@@ -1,6 +1,6 @@
 name = "Limited Chunkloading - Chunk cleanup[Forge/Fabric]"
 filename = "limitedchunks-1.20.1-4.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

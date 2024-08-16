@@ -1,6 +1,6 @@
 name = "Chipped Express"
 filename = "ChippedExpress-universal.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
