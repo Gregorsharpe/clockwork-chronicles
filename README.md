@@ -1,0 +1,1 @@
+Packwiz manifest data for the Night at the Carnival Minecraft Pack.
