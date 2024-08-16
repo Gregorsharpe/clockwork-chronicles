@@ -1746,6 +1746,11 @@ hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
+metafile = true
+
+[[files]]
 file = "mods/paucal.pw.toml"
 hash = "95c5ee17533708db1a72cba9bf57c388780e66086d2b3a6084d4586fae7dae30"
 metafile = true
@@ -1763,6 +1768,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
 
 [[files]]
