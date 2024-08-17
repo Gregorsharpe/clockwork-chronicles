@@ -1101,6 +1101,11 @@ hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
+file = "mods/console-filter.pw.toml"
+hash = "6e05856a5199afa036aac9cd6341e94099a463c3b53ebe141e0b3ce7e6e20c36"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -1241,6 +1246,11 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
+file = "mods/endofherobrine.pw.toml"
+hash = "6bdde5fc1ca16d272bc3403d678d10b8968ac5b925e7b1d824e3950a194990e6"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "691afdd6874616c5be440d7d4606ff63b9d3876486bd512c3cefbd545369b22a"
 metafile = true
@@ -1308,11 +1318,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
@@ -1910,6 +1915,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "be5d2bc40fc274ceb8514db1bd66fe76c889d66bcaa192c4ee71f61c10f0e6e2"
 metafile = true
 
 [[files]]

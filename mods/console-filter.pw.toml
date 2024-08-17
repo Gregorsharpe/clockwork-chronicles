@@ -1,0 +1,13 @@
+name = "Console Filter"
+filename = "ConsoleFilter-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "898cb138cedabd17c52486d466deaeee37aaba99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607328
+project-id = 251985
