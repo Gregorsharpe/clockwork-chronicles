@@ -209,6 +209,18 @@ file = "config/darkmodeeverywhereshaders.json"
 hash = "e3c521fc518bb4ce40925d55f7a2bdeb752409fc766cd4d6f4f46fae16b4f127"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6fa3955c7179808aae1357b995dbbad9cd86d4f6da20156fc51f85faa8d18f8c"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "4e589a776237efa769ad81f6ba989189d9ed99d780dd800d4c700e937ea05a4d"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "f24c552a2b8af374f0c6baf2c0ec14f9ca96c9bb5317fbdd0fe9253e847dc236"
+
+[[files]]
 file = "config/delightful-common.toml"
 hash = "521ca58220c7d10ff0df46a903f4ae277710b118a6bac7a7344e0aa7f026b9d1"
 
