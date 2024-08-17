@@ -677,6 +677,14 @@ file = "config/lootr-common.toml"
 hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
 
 [[files]]
+file = "config/luckperms/contexts.json"
+hash = "b29c50a7e9a5752e6670770e105282af209ebe733aef4820f7806a3f76962914"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "db013b1aca1e13b1d6f7f3598093c70e828c645d395af31488858c6ed3a59402"
+
+[[files]]
 file = "config/man_config.toml"
 hash = "68cb1ead128b0761754824704fa21fd5df22dd1bcb68107c41b59a0827e56c6d"
 
@@ -1945,7 +1953,7 @@ metafile = true
 
 [[files]]
 file = "mods/xenon.pw.toml"
-hash = "46ed656049b35c27afcf5326caeea5954b7a47b39f3a412aa19ce876adc7b7da"
+hash = "f5623af1e787d265d71092d351a35a43b9c5537d119f6f5af990fc753728f7d8"
 metafile = true
 
 [[files]]
