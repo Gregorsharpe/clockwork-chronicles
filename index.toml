@@ -677,10 +677,6 @@ file = "config/lootr-common.toml"
 hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
 
 [[files]]
-file = "config/luckperms/contexts.json"
-hash = "b29c50a7e9a5752e6670770e105282af209ebe733aef4820f7806a3f76962914"
-
-[[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "db013b1aca1e13b1d6f7f3598093c70e828c645d395af31488858c6ed3a59402"
 
