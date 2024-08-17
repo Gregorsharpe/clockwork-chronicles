@@ -666,7 +666,7 @@ hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
 
 [[files]]
 file = "config/lmft.json"
-hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/lootr-client.toml"
@@ -1228,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
 
 [[files]]
