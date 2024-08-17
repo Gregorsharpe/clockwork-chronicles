@@ -1693,6 +1693,11 @@ hash = "b9c03eeef85a050a626770dee002377099248b5a33ece835a162163ca8d443df"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "65eed47ae04cfb8c9a035df740385a59aadccd2477426dbfb542a80067e21de8"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "733e0c1c048579df9ecbaa054d0f80879d5c5a200863686373e63c11d71f8702"
 metafile = true
