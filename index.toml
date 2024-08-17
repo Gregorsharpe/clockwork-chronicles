@@ -1196,6 +1196,11 @@ hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
 file = "mods/delightful-burgers.pw.toml"
 hash = "1a3559e5a6e2a9a51b226a5b0e90aa79fd2eb3a8b8fc043bde6f074c0e0d8a33"
 metafile = true
