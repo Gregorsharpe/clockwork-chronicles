@@ -1423,6 +1423,11 @@ hash = "c13c08f6d9ad7a8f2939f6bb5e55f7953fc465d8d29756b957035fc1dbf05a8a"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "fb6633bed324938c75725162c7fa7fa0080b929c90da08ec5770901fe27671c2"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "c1bf18f632a3682893629366e7b70ef636a5260a4bc7c5a654ab9934f3a9a0e1"
 metafile = true
