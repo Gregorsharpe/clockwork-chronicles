@@ -1349,6 +1349,11 @@ hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "c3d78898943fdd3e851da85c84e5e3190c546753919552897b19828fd2c3cee7"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "3e6cd0338e376c0b84fbdbc7fed1b97637782087721c694a0bd6092694331c51"
 metafile = true
@@ -1978,6 +1983,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "75624150e904cfc0591685b23c7a076f3cf0d44963610f634e08afb28630c06e"
+metafile = true
+
+[[files]]
+file = "mods/vanishmod.pw.toml"
+hash = "56575166c6de094ddfef71e2cbcc7e2fd5cc198d3e987516f4515fc8aa8e9fe3"
 metafile = true
 
 [[files]]
