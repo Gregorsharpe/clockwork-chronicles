@@ -809,10 +809,6 @@ file = "config/sliceanddice-common.toml"
 hash = "6d15397086cbf7e666f295ba021b6c62158e4b6c0bc1f19ff637864894a64e5a"
 
 [[files]]
-file = "config/smarterfarmers-common.toml"
-hash = "32722ba1b3094c0ae26fcb43cd15d35ed8d4a8333529e1350fc4db83c91c9153"
-
-[[files]]
 file = "config/smoothchunk.json"
 hash = "d0b988aa519ffd031e5421091eec1054464f2e29e48781f6274efd977535f574"
 
@@ -1885,11 +1881,6 @@ hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
 metafile = true
 
 [[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "bc55f391fc54c473b65bf650e535bafdd678cee565efdce8589844806d273a7e"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "b14a3b185b304df8e1b48895bdc9bb08d7af7acb33ebab5aea88299cb6e40b34"
 metafile = true
@@ -1922,6 +1913,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "c931b55828a70efe482ae1d28df4373604ac31671656bf5c99b40090ee075fbf"
 metafile = true
 
 [[files]]
