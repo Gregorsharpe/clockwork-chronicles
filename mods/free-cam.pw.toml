@@ -9,6 +9,8 @@ mode = "metadata:curseforge"
 
 [option]
 optional = true
+default = false
+description = "Used for debugging some of the horror mods, should not be enabled without permission."
 
 [update]
 [update.curseforge]
