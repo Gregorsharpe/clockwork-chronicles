@@ -694,7 +694,7 @@ hash = "db013b1aca1e13b1d6f7f3598093c70e828c645d395af31488858c6ed3a59402"
 
 [[files]]
 file = "config/man_config.toml"
-hash = "68cb1ead128b0761754824704fa21fd5df22dd1bcb68107c41b59a0827e56c6d"
+hash = "b4bfc418a4c33f4aa86d8ec94ee28f86b1810ee3752fa84bb72a192c7cd0543d"
 
 [[files]]
 file = "config/memorysettings.json"
