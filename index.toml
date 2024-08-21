@@ -1564,9 +1564,8 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
+file = "mods/krypton-reforged.pw.toml.disabled"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
 
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
