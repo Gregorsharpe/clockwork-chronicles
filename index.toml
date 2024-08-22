@@ -1678,6 +1678,11 @@ hash = "02a961f55839346fcef6cca287a27cc1532f0761735a9ff2712a3efe0e4489fe"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "3f1eea2dd5059eaf390788895a15e83e906083f2013fc0d8cf4bff74c4a99726"
+metafile = true
+
+[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "7e0f29f19df03f61b630aa14718a310ccd25b59e046453e60c013e633fa0740d"
 metafile = true
@@ -1764,6 +1769,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
+metafile = true
+
+[[files]]
+file = "mods/oc2r.pw.toml"
+hash = "7236f106f2e0685fce7e3da0b4db936359ca7f3410c47f46c217dd35f719afa5"
 metafile = true
 
 [[files]]
