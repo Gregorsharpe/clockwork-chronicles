@@ -945,6 +945,10 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "kubejs/server_scripts/hexcasting.js"
+hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
 metafile = true
