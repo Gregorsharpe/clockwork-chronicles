@@ -1871,6 +1871,11 @@ hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
+file = "mods/sedna.pw.toml"
+hash = "201a5323a43ecff7adf2ab00b4f69a619f8d6b6be4f3f05534684d949882226c"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "fb88a2b21df549ff4ff959f84557ca89e26a3d526e371033fa7edbcdd295f618"
 metafile = true
