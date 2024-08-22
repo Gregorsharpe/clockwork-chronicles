@@ -1109,9 +1109,8 @@ hash = "d5ed5aff0921d0e95d0d470b31fb7ad2d132de4a23adb3096b4c8d1a2020ff79"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
+file = "mods/connectivity.pw.toml.disabled"
 hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
-metafile = true
 
 [[files]]
 file = "mods/console-filter.pw.toml"
@@ -1564,8 +1563,9 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml.disabled"
+file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
 
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
