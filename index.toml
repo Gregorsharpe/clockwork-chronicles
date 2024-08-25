@@ -945,6 +945,22 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "8470ec459a972b17d665f56dd0a260a02057a3c9eb9261483f021e1acf2c522b"
+
+[[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "a624d6b769afaeea4a7ad7090616932e61bb77a3bb82905cb6e4c0eaac9fd6ce"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "1d994ec1854c1e96944a38d059593e7a78efa2d7b161ab4712d1bda47b73937a"
+
+[[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
