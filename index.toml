@@ -949,6 +949,11 @@ file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
 metafile = true
@@ -956,6 +961,21 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ce0e9fa014aa89feba5a400cdf445299f7c1450fff978b15dbd72fbc8cec7552"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "9bd97f776c321a330b117f83f3632c867dd60c61cffabe51ce18c2dd19e24458"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "5450a5da41eaa51ac19e61b0061a17921b93ebe731834be4f47c1949a3428a4f"
 metafile = true
 
 [[files]]
@@ -1303,6 +1323,11 @@ hash = "67c52a10ef6576b3f254f430c6dea86fcaa75ef53259a906c9c313bc0b919172"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "434b72cecd74924143a340e93397870b0756fd8e8ca14ae4bba782b94d763ef8"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
 metafile = true
@@ -1445,6 +1470,11 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "37e09755459c7e9631515909f3180d13ea974f48d72e7dadbeeec00a46a118e2"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
@@ -1713,6 +1743,11 @@ hash = "7e0f29f19df03f61b630aa14718a310ccd25b59e046453e60c013e633fa0740d"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "f185653c659514dd5aa81a0ab175e2b777d20e7213ff6014db1ecb64f5f9f5d1"
+metafile = true
+
+[[files]]
 file = "mods/mob-despawn-timers.pw.toml"
 hash = "8194c7ed927d413b2a0edb06a0e6cdf8fa7826ed313dfc4147fe9c4fd05a65f5"
 metafile = true
@@ -1839,6 +1874,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
@@ -2220,6 +2260,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cave-dweller-sound-overhaul.pw.toml"
 hash = "a19637de1c960c12cc71ef73eecd1544e8d784122d562b4fb91c5112665fb67f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-energistics.pw.toml"
+hash = "8b9210f0a648e9e5f28b37bf18c08d9fdf4cdb555d158e12c55aba6a32ce9bec"
 metafile = true
 
 [[files]]
