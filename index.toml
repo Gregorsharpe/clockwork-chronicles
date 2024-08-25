@@ -1278,6 +1278,11 @@ hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "bdc1edf884563581a4e0dbfad766bee6f846045ef5ee2a22cf16d7d09186dc21"
+metafile = true
+
+[[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
 metafile = true
@@ -1844,6 +1849,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
 metafile = true
 
 [[files]]
