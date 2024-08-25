@@ -961,6 +961,86 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
+file = "global_packs/required_resources/AL's Boss Rush 1.1.zip"
+hash = "f2e0b61f212d87a22b872f8145b3c4e932c68c088d5bed50176172d874e2c9f1"
+
+[[files]]
+file = "global_packs/required_resources/AL's Boss Rush+FA 1.1.zip"
+hash = "32443983b7bf93a30ddbf705d3f8044b1b91d061815d2c4e2fa82680a4c569cc"
+
+[[files]]
+file = "global_packs/required_resources/AL's Creepers Revamped 1.3.zip"
+hash = "52e8760a398293ad4c98655016947cfd21ca3185e0351bd1f2d1d163a3bf3290"
+
+[[files]]
+file = "global_packs/required_resources/AL's Enderman Revamped 1.1.zip"
+hash = "b3cb05b86a86809ce472d96e502fac773c4e42df2225e1e7b9fc6c5972fe1b3a"
+
+[[files]]
+file = "global_packs/required_resources/AL's Enderman Revamped+FA 1.1.zip"
+hash = "007c13469813d7cc5288f7c48499704e589d35dd78d54b876344a950b01c8890"
+
+[[files]]
+file = "global_packs/required_resources/AL's Golems Revamped 1.3.zip"
+hash = "be28ff155113cea21a0004370b80f3e14c8d5f2726e69332b92f9e0899def898"
+
+[[files]]
+file = "global_packs/required_resources/AL's Golems Revamped+FA 1.2.zip"
+hash = "c8399187ba42e6caa7c2597629822ae440cdbd80e79c17c6bb2d024b0f80fb5f"
+
+[[files]]
+file = "global_packs/required_resources/AL's Spiders Revamped 1.2.zip"
+hash = "8efd17fa8d5bd0cc457c7a4be49302f557025e9300092f4d2a66ca1ac585b121"
+
+[[files]]
+file = "global_packs/required_resources/AL's Spiders Revamped+FA 1.2.zip"
+hash = "42149a8f425a41b1679c13da8cf1f3964619ea760757d9380b337cf62d4386db"
+
+[[files]]
+file = "global_packs/required_resources/AL's Zombies Revamped 1.6.zip"
+hash = "a125856617ac74e000568028c7f43e5c01b1774017ebc8fe622a68ad306d4b34"
+
+[[files]]
+file = "global_packs/required_resources/AL's Zombies Revamped+FA 1.3.zip"
+hash = "06c1a76efc6961bba93cabfd16f9c62df0d498f27b69d02238719849107934ba"
+
+[[files]]
+file = "global_packs/required_resources/Better Spiders.zip"
+hash = "891d1e219c1f59ba3ecfb8b2b3bc40297f5b95f60b1bc1bf82cc6f0c118a1d28"
+
+[[files]]
+file = "global_packs/required_resources/Better Villagers.zip"
+hash = "2cfb3c6b821a49e189da0e495640e2f86a1f3d6c86cee6781279a1f1fe55f25c"
+
+[[files]]
+file = "global_packs/required_resources/Better illagers.zip"
+hash = "db3ac585283ee67d2659b9351d550e7af2fedadb35b3a0b2c0fd2ad20149c804"
+
+[[files]]
+file = "global_packs/required_resources/CaveDweller_SoundOverhaul.zip"
+hash = "1c67b122105fef07d67d4cf1ff3d5ca6526710fb6c2de528b874101810ba2ef8"
+
+[[files]]
+file = "global_packs/required_resources/Create-Energistics-1.1.1-mc1.20.1.zip"
+hash = "b2f0fb2f99c78201e51fd49b6e7253739fe732f629b4e013e50a0c4a9ba7c74b"
+
+[[files]]
+file = "global_packs/required_resources/FA+All_Extensions-v1.4.zip"
+hash = "cf6425feb0bad40c9124c361c4d962ee557fea6dfde5799b04560b8fb0f72961"
+
+[[files]]
+file = "global_packs/required_resources/Fabulous Foliage.zip"
+hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
+
+[[files]]
+file = "global_packs/required_resources/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "global_packs/required_resources/Meow Society.zip"
+hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
@@ -2195,117 +2275,8 @@ hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Better Spiders.zip"
-hash = "891d1e219c1f59ba3ecfb8b2b3bc40297f5b95f60b1bc1bf82cc6f0c118a1d28"
-
-[[files]]
-file = "resourcepacks/Better Villagers.zip"
-hash = "2cfb3c6b821a49e189da0e495640e2f86a1f3d6c86cee6781279a1f1fe55f25c"
-
-[[files]]
-file = "resourcepacks/Better illagers.zip"
-hash = "db3ac585283ee67d2659b9351d550e7af2fedadb35b3a0b2c0fd2ad20149c804"
-
-[[files]]
-file = "resourcepacks/Fabulous Foliage.zip"
-hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
-
-[[files]]
-file = "resourcepacks/Meow Society.zip"
-hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
-
-[[files]]
 file = "resourcepacks/SmoothFont_1.20.zip"
 hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
-
-[[files]]
-file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
-hash = "41e7a5f5c85e2d03bb4187af993c64b8af71955737c57b7d31da5906726528ec"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-boss-rush.pw.toml"
-hash = "ef442cab15515890f17d79fdcce0f0969dc7933c1cacd74f7cd01ebb46a19a4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-creepers-revamped.pw.toml"
-hash = "f9a455ed11c80f4206e47e61e61cfd4cfb0507976656ba1a828c2e62b61d9ec4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-enderman-revamped-x-fresh-animations.pw.toml"
-hash = "52c39cfb8d953c44b8c5ddd52f5960a0b65652c7ea2273b75bdb3879f0149a71"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-enderman-revamped.pw.toml"
-hash = "b947f17f3eae6e08062e50bb5ec3b3772484ca72888d641127c2e459236997b4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-golems-revamped-x-fresh-animations.pw.toml"
-hash = "d72e009f86dccf96304e786870322abfc16cc25381b84300466e605c45fa2838"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-golems-revamped.pw.toml"
-hash = "6e1baf93232943acc5fc8790a5f970e5791c8bcf35a9c0412e1ae12f13fa70a1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-skeletons-revamped-x-fresh-animations.pw.toml"
-hash = "94032b4bae5f9f86de6aff37f60ba40f89a00aa4aa82a2ca3563f11904d7aff6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-skeletons-revamped.pw.toml"
-hash = "5fd9949e8e358a0c21cde38041aea57bd7c9a969acc5849e2646b51ec1fa0bbe"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-spiders-revamped-x-fresh-animations.pw.toml"
-hash = "52fbad4eec8cd1b2884154a9de28ffeb08a4e3f9ea09f86e003c5d86a49da3dc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-spiders-revamped.pw.toml"
-hash = "b7bba9358c074bbbed8e9555a293d966e32ca3e203d61e80a216b02345dded4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
-hash = "2af386c11fab53ae48fce4429649079d05eb76e8762fb250f3ec4b5861338b3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped.pw.toml"
-hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cave-dweller-sound-overhaul.pw.toml"
-hash = "a19637de1c960c12cc71ef73eecd1544e8d784122d562b4fb91c5112665fb67f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-energistics.pw.toml"
-hash = "8b9210f0a648e9e5f28b37bf18c08d9fdf4cdb555d158e12c55aba6a32ce9bec"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "2341aaba3bc23e88cac44e01cacadfc30d7b595ddde0b32ae167a69998068752"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
