@@ -969,6 +969,11 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "0281022e571f9b59fbf10c0be5380e3ee0a5ecbca12d3ed5a3297388972d55da"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
@@ -1148,6 +1153,11 @@ hash = "7e980860ff83858e087f1fa9beda972459b7d3139a573d10c01e989e98f8d437"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1a93fc6e519c59668c04e60f145cf82d8f0eb15a54271f9c05581ae54eb5346f"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -1200,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
+metafile = true
+
+[[files]]
+file = "mods/dark-waters.pw.toml"
+hash = "9ce272db93b2095c2b2d49fc8cf89e4b873780ebc769193d5231c7254be9791b"
 metafile = true
 
 [[files]]
@@ -1273,6 +1288,11 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "39880e14c5b46496c6c9fd5cdeed67bca74bb99de9f273270918184a525d0942"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "691afdd6874616c5be440d7d4606ff63b9d3876486bd512c3cefbd545369b22a"
 metafile = true
@@ -1343,6 +1363,11 @@ hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
@@ -1350,6 +1375,11 @@ metafile = true
 [[files]]
 file = "mods/free-cam.pw.toml"
 hash = "0407db1235be27c99c03851e791c4ee5a40f34067cdd24810e4b2303053b1fd0"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
@@ -1405,6 +1435,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "8e7d5084ee9e4ebbe405561ae830a87bf4aaba90296ce80cc86191e4e4decd6e"
+metafile = true
+
+[[files]]
+file = "mods/gigeresque.pw.toml"
+hash = "91a1f82e1ded0bfd88e01b0c3f0064bc1a5d282f03451769f46a37125fea12fd"
 metafile = true
 
 [[files]]
@@ -1856,6 +1891,11 @@ hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
@@ -1886,12 +1926,22 @@ hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
 metafile = true
 
 [[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
+metafile = true
+
+[[files]]
 file = "mods/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
 hash = "cf391181e247e9c2a182e971e784cbe102f5f9531892dbc642507e06928e57c1"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6068cdff2ed4152619680b61ec139e35ac3ef3f867ec34c3a1fc41a24b446465"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "dcc5d1ad53e7357e893c86a9eca35cc4d84a86fc4e30ea9e6241af7ce22debcd"
 metafile = true
 
 [[files]]
@@ -1957,6 +2007,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
+metafile = true
+
+[[files]]
+file = "mods/the-midnight-lurker.pw.toml"
+hash = "edd9985d445d29ecfb40930cc7c60c870348759d59f271c1250682e997f89c2e"
 metafile = true
 
 [[files]]
