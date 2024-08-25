@@ -1519,9 +1519,8 @@ hash = "c13c08f6d9ad7a8f2939f6bb5e55f7953fc465d8d29756b957035fc1dbf05a8a"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "fb6633bed324938c75725162c7fa7fa0080b929c90da08ec5770901fe27671c2"
-metafile = true
+file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
+hash = "dffe2211d2651d23bbefdc128d9aeba8cee187447150aec60eac113bd2a18dc2"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
