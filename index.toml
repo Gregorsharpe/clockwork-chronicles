@@ -1424,11 +1424,6 @@ hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "0407db1235be27c99c03851e791c4ee5a40f34067cdd24810e4b2303053b1fd0"
-metafile = true
-
-[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
