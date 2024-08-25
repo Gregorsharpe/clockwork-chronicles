@@ -1273,11 +1273,6 @@ hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
 
 [[files]]
-file = "mods/endofherobrine.pw.toml"
-hash = "6bdde5fc1ca16d272bc3403d678d10b8968ac5b925e7b1d824e3950a194990e6"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "691afdd6874616c5be440d7d4606ff63b9d3876486bd512c3cefbd545369b22a"
 metafile = true
@@ -1415,11 +1410,6 @@ metafile = true
 [[files]]
 file = "mods/glassential.pw.toml"
 hash = "37e09755459c7e9631515909f3180d13ea974f48d72e7dadbeeec00a46a118e2"
-metafile = true
-
-[[files]]
-file = "mods/goatman.pw.toml"
-hash = "5ec616a79ecda965d3564c2422b9adef11d3a208ffaf0cba567529cc523c5b6e"
 metafile = true
 
 [[files]]
@@ -1967,11 +1957,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
-metafile = true
-
-[[files]]
-file = "mods/the-man-from-the-fog.pw.toml"
-hash = "783656ccfcf652385122bf8a99519bbac525d3f8dab056ea5a17f32c1f4f8848"
 metafile = true
 
 [[files]]
