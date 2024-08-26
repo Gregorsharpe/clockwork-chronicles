@@ -1608,9 +1608,8 @@ hash = "edd45b049d8a6e6a3a0fc3957af3bf6a47c8e7f1c31eb5af21414980766b63a4"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "f4c54e38d0213f7e073ff49427f364431dbbe2f8d7b80e140e2da2b077ae306c"
-metafile = true
+file = "mods/hexerei-0.4.1.jar"
+hash = "690ce65272d3c4f0e69d87b499e558e6d8477f84682bcb14ec2e902ed49fa42a"
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
