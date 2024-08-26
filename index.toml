@@ -1608,6 +1608,11 @@ hash = "edd45b049d8a6e6a3a0fc3957af3bf6a47c8e7f1c31eb5af21414980766b63a4"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.pw.toml"
+hash = "f4c54e38d0213f7e073ff49427f364431dbbe2f8d7b80e140e2da2b077ae306c"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "8db43c90ffb5b4d4deb7746384b13f6a7eb52f4f95dcd53982fce3e28694113b"
 metafile = true
