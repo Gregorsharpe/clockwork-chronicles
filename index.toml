@@ -1607,9 +1607,8 @@ file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "dffe2211d2651d23bbefdc128d9aeba8cee187447150aec60eac113bd2a18dc2"
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "edd45b049d8a6e6a3a0fc3957af3bf6a47c8e7f1c31eb5af21414980766b63a4"
-metafile = true
+file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-668.jar"
+hash = "7b6a14bcee46e3bb1f71c896364d5ab1042b662529b130a66f297d154e32bda1"
 
 [[files]]
 file = "mods/hexerei-0.4.1.jar"
