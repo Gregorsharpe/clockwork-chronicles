@@ -1041,6 +1041,10 @@ file = "global_packs/required_resources/Meow Society.zip"
 hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
 [[files]]
+file = "kubejs/client_scripts/ae2_facade_hide.js"
+hash = "7cbec972c215175fd513eff2cf81f04681fd8f60afa474427bb5a8e04fb92468"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
