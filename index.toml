@@ -1333,6 +1333,11 @@ hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "bbc43924cbbcf3e61d844386ee6e37a4910adde3968cee47cdb6529d7a0b256f"
+metafile = true
+
+[[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
 metafile = true
