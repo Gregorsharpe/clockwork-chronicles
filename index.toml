@@ -726,7 +726,7 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/morphtool-common.toml"
-hash = "c2e48b4ec79724b401b842c4145cb9a435f4957022291b3be5b6eaefbdbdd1c9"
+hash = "710af380939ba3e9bd4a24729900c970d9f692fbc22ab884b36bf7c7d8a98325"
 
 [[files]]
 file = "config/naturalist.toml"
