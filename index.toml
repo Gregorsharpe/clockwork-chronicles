@@ -2172,6 +2172,11 @@ hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
 metafile = true
 
 [[files]]
+file = "mods/the-midnight-lurker.pw.toml"
+hash = "2a118b10422b1408bc7f500ccd1c2a5a2ce5843701633af65d1746147308b819"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
