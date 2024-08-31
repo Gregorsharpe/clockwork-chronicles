@@ -5,10 +5,10 @@
   },
   "debugLog": {
     "desc:": "Print log messages for which chunk tickets are unloaded where. Default: false",
-    "debugLog": false
+    "debugLog": true
   },
   "excludedtickets": {
     "desc:": "List of excluded ticket/chunkload types, these are mod-specific. : e.g. format :  [\"mekanism\", \"player\"]",
-    "excludedtickets": []
+    "excludedtickets": ["ae2"]
   }
 }

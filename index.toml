@@ -670,7 +670,7 @@ hash = "f26672542348ed68d5ffdfed8671bbe421a8520dc11ee520a375837fc5738d8a"
 
 [[files]]
 file = "config/limitedchunks.json"
-hash = "1a5929cfa7c9ad1b2842fd5ea9aa0d107785a1d4b9e92ba62ffac9e3f7245947"
+hash = "0a6cf1768bfeafb23a8389659dff9bf2f5040b1191802e1e51a9efddcfdedc6d"
 
 [[files]]
 file = "config/lithium.properties"
