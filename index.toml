@@ -762,7 +762,7 @@ hash = "636bfa688a38aaabbe306ec6e327fa8b1afa944809ba6685d6e261cc6f8169ba"
 
 [[files]]
 file = "config/pickablepets.json5"
-hash = "fadd99a62d728e96c308bb6bbd23b39dceb8adaa9c1697c5a2e2bf79c61b3e73"
+hash = "6bc0512cb67f881219544d577ae870fea2b60dbb7c50d2ddbc26745e12c4ff36"
 
 [[files]]
 file = "config/polymorph-integrations.toml"

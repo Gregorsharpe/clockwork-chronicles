@@ -1,6 +1,6 @@
 {
 	// Enable / Disable sneak + right-Click pickup ability.
-	"SneakRightClick": true,
+	"SneakRightClick": false,
 	// Enable / Disable key shortcut pickup ability.
 	"KeyShortcut": true,
 	// Enable / Disable picking up baby Villagers.
