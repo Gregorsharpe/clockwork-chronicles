@@ -1437,6 +1437,11 @@ hash = "f2ab69d3546c95bf14c09d98054b6588df80bb14dfc02799e38b8ac43e6e154e"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
@@ -2090,6 +2095,11 @@ hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
+metafile = true
+
+[[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
 metafile = true
@@ -2261,11 +2271,6 @@ metafile = true
 [[files]]
 file = "mods/why-stacks-of-16.pw.toml"
 hash = "1c432ba10e4e94210cff47ac9a7716476499350f1d57986c9559acac5a58c0c3"
-metafile = true
-
-[[files]]
-file = "mods/xenon.pw.toml"
-hash = "f5623af1e787d265d71092d351a35a43b9c5537d119f6f5af990fc753728f7d8"
 metafile = true
 
 [[files]]
