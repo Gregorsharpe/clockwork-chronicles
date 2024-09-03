@@ -1059,6 +1059,11 @@ hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "0179c7ddb89d772c7c5d645e212c98bf885c755753660b8deae9e7b1548bd44b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -2159,6 +2164,11 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "95d60fd0a890b6b1087de0bc89079e1dd1276b61a9b1241857f3ea414a3592d2"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "b60201cfb982772681514ea0c2ec2d0b6cbcb8c470391d7dfc839d37a434faaf"
 metafile = true
 
 [[files]]
