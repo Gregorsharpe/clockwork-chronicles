@@ -1099,6 +1099,11 @@ hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
 
 [[files]]
+file = "mods/beer-craft-mod.pw.toml"
+hash = "c7961c5e9a433ce255a0e9f67c8ec66e2ef7504950bf5046caf1c135bc87e0b3"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
 metafile = true
@@ -1121,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
+file = "mods/biome-music.pw.toml"
+hash = "14f0eec329438e6d304201b2a7e13995719cbba6b2943b0ce8e048d54c29182a"
 metafile = true
 
 [[files]]
@@ -1323,6 +1333,11 @@ hash = "c1fa8e6889d3dffd9708de9d59aeeaefec66ff013b0bc32de2e23ec9199c66e9"
 metafile = true
 
 [[files]]
+file = "mods/creeping-woods.pw.toml"
+hash = "7c016e1fd93e23bb4c99e2b36e7dcce684cbe50fa2db52c655ad19aacad29b78"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -1400,6 +1415,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
+metafile = true
+
+[[files]]
+file = "mods/eerie-music-forge-fabric.pw.toml"
+hash = "8285ff831249213a9f1ab2e7322adab9bf8027ad8643d335c75295272c056f7c"
 metafile = true
 
 [[files]]
@@ -1603,6 +1623,11 @@ hash = "7b6a14bcee46e3bb1f71c896364d5ab1042b662529b130a66f297d154e32bda1"
 [[files]]
 file = "mods/hexerei-0.4.1.jar"
 hash = "690ce65272d3c4f0e69d87b499e558e6d8477f84682bcb14ec2e902ed49fa42a"
+
+[[files]]
+file = "mods/horror-elements-mod.pw.toml"
+hash = "3048d1a7bb9553f149ef5cf662b8f48f814b75fb099641a596b1afedcc81245c"
+metafile = true
 
 [[files]]
 file = "mods/ichunutil.pw.toml"

@@ -1,0 +1,13 @@
+name = "Eerie Music[Forge/Fabric]"
+filename = "eeriemusic-1.20.1-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "769c15c4ebd0c7ed6de2f93217ef37b490abfe1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5390891
+project-id = 924274
