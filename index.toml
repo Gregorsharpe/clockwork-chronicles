@@ -1049,6 +1049,10 @@ file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
+file = "mods/World of Terror.jar"
+hash = "e1462e81f52e733bec94dec5601ed3fdd3ed6ce3b045cedc7e913cd666adf75c"
+
+[[files]]
 file = "mods/aarokends-dungeons-and-monsters.pw.toml"
 hash = "b35b5d3368d5403444e942f56b48756fe40a7f130b115427a41ff9037b3b6c06"
 metafile = true
@@ -1635,9 +1639,8 @@ hash = "3048d1a7bb9553f149ef5cf662b8f48f814b75fb099641a596b1afedcc81245c"
 metafile = true
 
 [[files]]
-file = "mods/hostile-water-monsters.pw.toml"
-hash = "473b7560feaf723787c00a43eba8684f386f822a0aebe17a59fc0d4ed7969ca5"
-metafile = true
+file = "mods/hostilewatermobs-1.20-46.22.3.jar"
+hash = "ef72e83b45863488d882d0ab207586e3d4d065b2b39d6fa182a4d09254aacae8"
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
@@ -2249,11 +2252,6 @@ metafile = true
 [[files]]
 file = "mods/why-stacks-of-16.pw.toml"
 hash = "1c432ba10e4e94210cff47ac9a7716476499350f1d57986c9559acac5a58c0c3"
-metafile = true
-
-[[files]]
-file = "mods/world-of-terror.pw.toml"
-hash = "3c59d7a33369804e3e54b337dbd38029391d315c0dd31c091a772c723e0ab86f"
 metafile = true
 
 [[files]]
