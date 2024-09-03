@@ -2007,9 +2007,8 @@ hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
 
 [[files]]
-file = "mods/paucal.pw.toml"
-hash = "95c5ee17533708db1a72cba9bf57c388780e66086d2b3a6084d4586fae7dae30"
-metafile = true
+file = "mods/paucal-0.6.0-pre-6+1.20.1-forge.jar"
+hash = "94bc8eaaec62d20e257529f0e83d8b09564a0fbdeb7a0119942d36fbd1554258"
 
 [[files]]
 file = "mods/peeping-tom.pw.toml"
@@ -2131,8 +2130,8 @@ hash = "ee10ff198468b7bc9c1269fa828a0d0f09f99f00b36bc67474ead66e21a6f27b"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-forge-1.6.6-mc1.20.1.jar"
-hash = "cf391181e247e9c2a182e971e784cbe102f5f9531892dbc642507e06928e57c1"
+file = "mods/skinlayers3d-forge-1.6.7-mc1.20.1.jar"
+hash = "bb06fc8dd47a9dc713b74a79b12c9a8b35e6b75ab874ecfbd78d8368ea22d39d"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
