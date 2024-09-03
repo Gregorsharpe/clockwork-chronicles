@@ -1,0 +1,13 @@
+name = "World of Terror"
+filename = "World of Terror.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf260320bd4193260f3b00b0875e7ce5c638f667"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964502
+project-id = 951316

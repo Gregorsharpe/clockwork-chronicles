@@ -1,0 +1,13 @@
+name = "Aarokend's Dungeons and Monsters"
+filename = "aarokends_dungeons_and_monsters trading and fighthing update-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6f3689c249933bc3b39c353b66c76c7c2f3cc0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5367721
+project-id = 1019233

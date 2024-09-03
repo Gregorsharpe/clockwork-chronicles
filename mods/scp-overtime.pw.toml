@@ -1,0 +1,13 @@
+name = "SCP: Overtime"
+filename = "scpo-2.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37df7e776e72528c0155b815e33bdfdeb84d9b8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651275
+project-id = 339045
