@@ -1058,6 +1058,11 @@ hash = "b35b5d3368d5403444e942f56b48756fe40a7f130b115427a41ff9037b3b6c06"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "008f4b4782a92c6a8995f26159433659d9b5bdfc5a736614a142666c4d235b3c"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
@@ -1174,6 +1179,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "2ad2dd713650ffbbd25add29d5da4d0d07532eb31122236bae471eff582229ae"
 metafile = true
 
 [[files]]
@@ -2021,6 +2031,11 @@ hash = "10bb7f5858ed05138e5943a3baa2a67d1bcd28c56770dcb0fa73b0ec3bc9758c"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
+metafile = true
+
+[[files]]
 file = "mods/pickable-pets.pw.toml"
 hash = "576dc5ee0eca31b7b1e01d42bba99afe7039f9f7949e2a0db0ee06603091578a"
 metafile = true
@@ -2249,6 +2264,11 @@ hash = "1fbae6be601ffcbc621279658f5880d35b3b7d6f623944bb69f3fd1c853d0d56"
 metafile = true
 
 [[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "4ec366ce2c259f3f94c01bf25a0dd46105c9b319bebc08332ef94682da8b31f4"
+metafile = true
+
+[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "75624150e904cfc0591685b23c7a076f3cf0d44963610f634e08afb28630c06e"
 metafile = true
@@ -2331,6 +2351,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/SmoothFont_1.20.zip"
 hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "d1eedbc027b542abaabb1323cb57c42c8f445121d6a9d619a4b0bb220164d3ac"
+metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
