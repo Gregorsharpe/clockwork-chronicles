@@ -153,6 +153,10 @@ file = "config/connectivity.json"
 hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
+file = "config/consolefilter-common.toml"
+hash = "c57e515203b321ccfb4fdea0346d960b420784414e024bad0d596d18da844b15"
+
+[[files]]
 file = "config/cookingforblockheads-common.toml"
 hash = "c4e88abc346f2e4f466726c1ab1aa2b6d1aa70fd99e8ba64e1de9ca8273d7d4e"
 
