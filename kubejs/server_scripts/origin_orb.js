@@ -7,7 +7,7 @@ ServerEvents.recipes(event => {
       'EDE'
     ],
     {
-      A: 'minecraft:ender_pearl',
+      E: 'minecraft:ender_pearl',
       D: 'minecraft:diamond',
       S: 'minecraft:nether_star'
     }

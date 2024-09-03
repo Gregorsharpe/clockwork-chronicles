@@ -1058,7 +1058,7 @@ hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
-hash = "33e8faa1f51791742385b012034ad91c2846243ef7f7ab33a939d289d136524f"
+hash = "671a22046f97a952571cf6731ba0bd4584d48ed703db872fc8e445279ca6df9f"
 
 [[files]]
 file = "kubejs/server_scripts/remove/aarokends_dungeons_and_monsters.js"
