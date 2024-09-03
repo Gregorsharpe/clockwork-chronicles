@@ -1089,11 +1089,6 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "0281022e571f9b59fbf10c0be5380e3ee0a5ecbca12d3ed5a3297388972d55da"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "89405b622819b263cefd219f7a3bbe469387884b38698e03b4fa09d7a6ce8e3f"
 metafile = true
@@ -1343,11 +1338,6 @@ hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
 metafile = true
 
 [[files]]
-file = "mods/dark-waters.pw.toml"
-hash = "9ce272db93b2095c2b2d49fc8cf89e4b873780ebc769193d5231c7254be9791b"
-metafile = true
-
-[[files]]
 file = "mods/deeper-and-darker-delight.pw.toml"
 hash = "7d60f1cb27361cfd2cfb4a9148ddbc8476326831b037f6b7823bca6762a867b2"
 metafile = true
@@ -1503,11 +1493,6 @@ hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "fd4067afb2907fbe9c2077a52b2528d8612d4ac400645942f6367c83df44602b"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
 metafile = true
@@ -1575,11 +1560,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
-metafile = true
-
-[[files]]
-file = "mods/gigeresque.pw.toml"
-hash = "91a1f82e1ded0bfd88e01b0c3f0064bc1a5d282f03451769f46a37125fea12fd"
 metafile = true
 
 [[files]]
@@ -2085,11 +2065,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4c9fe1c48de2de8501a443b7099b2e4d2a8a45f0e364ddffe7bebda145d0e987"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "b27c18503a096fba94701b4335a2cce1f66c25b38c0f7fb7215d21ff36b434dc"
 metafile = true
 
 [[files]]
