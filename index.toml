@@ -1041,12 +1041,28 @@ file = "global_packs/required_resources/Meow Society.zip"
 hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
 [[files]]
-file = "kubejs/client_scripts/ae2_facade_hide.js"
+file = "kubejs/client_scripts/hide/aarokends_dungeons_and_monsters.js"
+hash = "cf57347dba3b181421ac363e7b312fb161270eb48cc2b53530eb8bff8c2fa592"
+
+[[files]]
+file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "7cbec972c215175fd513eff2cf81f04681fd8f60afa474427bb5a8e04fb92468"
+
+[[files]]
+file = "kubejs/client_scripts/hide/intense_horror.js"
+hash = "0a90017dc92113d52e8c279d20f46d0385b85c0e715bdc73c994af44800e47ca"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
+
+[[files]]
+file = "kubejs/server_scripts/remove/aarokends_dungeons_and_monsters.js"
+hash = "6e6c8d26e9d96a1230fd2ec83c602dbfb105c2e440af0d5a824c07d6f8f77749"
+
+[[files]]
+file = "kubejs/server_scripts/remove/intense_horror.js"
+hash = "2db1d466750efa6973a0e0bef98e62ce9343c666ecdca79d86c6ae4a46c70382"
 
 [[files]]
 file = "mods/MCreator Link 1.3 [1.20.1].jar"
