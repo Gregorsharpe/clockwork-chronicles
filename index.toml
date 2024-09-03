@@ -2016,6 +2016,11 @@ hash = "95c5ee17533708db1a72cba9bf57c388780e66086d2b3a6084d4586fae7dae30"
 metafile = true
 
 [[files]]
+file = "mods/peeping-tom.pw.toml"
+hash = "10bb7f5858ed05138e5943a3baa2a67d1bcd28c56770dcb0fa73b0ec3bc9758c"
+metafile = true
+
+[[files]]
 file = "mods/pickable-pets.pw.toml"
 hash = "576dc5ee0eca31b7b1e01d42bba99afe7039f9f7949e2a0db0ee06603091578a"
 metafile = true
