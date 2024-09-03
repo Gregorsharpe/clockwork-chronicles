@@ -1042,19 +1042,23 @@ hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
 [[files]]
 file = "kubejs/client_scripts/hide/aarokends_dungeons_and_monsters.js"
-hash = "cf57347dba3b181421ac363e7b312fb161270eb48cc2b53530eb8bff8c2fa592"
+hash = "8b59eb2eb02055af7f20deb42d1fea0e8f4d947f14a069789a6511d8d89ed59a"
 
 [[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
-hash = "7cbec972c215175fd513eff2cf81f04681fd8f60afa474427bb5a8e04fb92468"
+hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
 [[files]]
 file = "kubejs/client_scripts/hide/intense_horror.js"
-hash = "0a90017dc92113d52e8c279d20f46d0385b85c0e715bdc73c994af44800e47ca"
+hash = "cd886ebaea5e2cf260afe77f689611ee68dc30e5f968e3a4a59747993c1e2511"
 
 [[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
+
+[[files]]
+file = "kubejs/server_scripts/origin_orb.js"
+hash = "33e8faa1f51791742385b012034ad91c2846243ef7f7ab33a939d289d136524f"
 
 [[files]]
 file = "kubejs/server_scripts/remove/aarokends_dungeons_and_monsters.js"
