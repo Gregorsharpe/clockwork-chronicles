@@ -1623,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
-hash = "dffe2211d2651d23bbefdc128d9aeba8cee187447150aec60eac113bd2a18dc2"
+hash = "6b93676e165a8041efb5dfca6d665f145348ee6e1186e3afcd4ab35094721bc4"
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-668.jar"
