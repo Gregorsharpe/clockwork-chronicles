@@ -2319,6 +2319,11 @@ hash = "1c432ba10e4e94210cff47ac9a7716476499350f1d57986c9559acac5a58c0c3"
 metafile = true
 
 [[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "b8c9c00fe71df49cfbda00dd8160e02f4a408c397ac588842eb1412b4498ae03"
+metafile = true
+
+[[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
