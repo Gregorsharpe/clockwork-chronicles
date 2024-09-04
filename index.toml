@@ -2051,6 +2051,11 @@ hash = "10bb7f5858ed05138e5943a3baa2a67d1bcd28c56770dcb0fa73b0ec3bc9758c"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
@@ -2251,11 +2256,6 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
-metafile = true
-
-[[files]]
-file = "mods/the-midnight-lurker.pw.toml"
-hash = "2a118b10422b1408bc7f500ccd1c2a5a2ce5843701633af65d1746147308b819"
 metafile = true
 
 [[files]]
