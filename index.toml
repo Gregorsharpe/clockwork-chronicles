@@ -1372,11 +1372,6 @@ hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
-file = "mods/creeping-woods.pw.toml"
-hash = "7c016e1fd93e23bb4c99e2b36e7dcce684cbe50fa2db52c655ad19aacad29b78"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
