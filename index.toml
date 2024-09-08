@@ -1928,6 +1928,11 @@ hash = "8194c7ed927d413b2a0edb06a0e6cdf8fa7826ed313dfc4147fe9c4fd05a65f5"
 metafile = true
 
 [[files]]
+file = "mods/mob-filters-mod.pw.toml"
+hash = "b3ac2c06a63dcb2fe1798e97e7c56ec5b0859df4bc7c714ddfeb60fb4d1861e1"
+metafile = true
+
+[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
 metafile = true
@@ -1935,6 +1940,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
 metafile = true
 
 [[files]]
