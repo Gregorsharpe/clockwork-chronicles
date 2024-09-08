@@ -1057,6 +1057,10 @@ file = "kubejs/client_scripts/hide/intense_horror.js"
 hash = "cd886ebaea5e2cf260afe77f689611ee68dc30e5f968e3a4a59747993c1e2511"
 
 [[files]]
+file = "kubejs/server_scripts/beer_mod.js"
+hash = "9e6b5c7c6fb28626ea9a89e12919b08e44c63698c3ccad1432424ef280265e6e"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
