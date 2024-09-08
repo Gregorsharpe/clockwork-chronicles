@@ -1928,9 +1928,8 @@ hash = "8194c7ed927d413b2a0edb06a0e6cdf8fa7826ed313dfc4147fe9c4fd05a65f5"
 metafile = true
 
 [[files]]
-file = "mods/mob-filters-mod.pw.toml"
-hash = "b3ac2c06a63dcb2fe1798e97e7c56ec5b0859df4bc7c714ddfeb60fb4d1861e1"
-metafile = true
+file = "mods/mobfilter-0.0.8-1.20.1.jar"
+hash = "c532fbcf882a212edf96c852c291f61fc5205807402d47433d0b95d111848999"
 
 [[files]]
 file = "mods/mobtimizations.pw.toml"
