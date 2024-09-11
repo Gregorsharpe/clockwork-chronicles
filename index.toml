@@ -2010,6 +2010,11 @@ hash = "3f1eea2dd5059eaf390788895a15e83e906083f2013fc0d8cf4bff74c4a99726"
 metafile = true
 
 [[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
+metafile = true
+
+[[files]]
 file = "mods/mavm.pw.toml"
 hash = "c5c23cd1b5ebe15dc83ead959df0873e8b87f57f6af95fd515adb267c3781116"
 metafile = true
