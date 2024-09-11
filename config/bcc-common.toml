@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 0
+	modpackProjectID = 999999999
 	#The name of the modpack
-	modpackName = "PLEASE_CHANGE_ME"
+	modpackName = "Night at the Carnival"
 	#The version of the modpack
-	modpackVersion = "CHANGE_ME"
+	modpackVersion = "3.0.1"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

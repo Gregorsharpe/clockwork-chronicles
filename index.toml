@@ -42,7 +42,7 @@ hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d048f1f87fd8e006a5a77accb0416f7ef673197b29d65d0397dce7eb6b2b7d0f"
+hash = "731c675abfdd627a0cd12604dfa0646b0b9c20c32b385faf5212ad7807370eb6"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -154,7 +154,7 @@ hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/consolefilter-common.toml"
-hash = "575b8d45ed18fa8165aa94d4e19de81f17c265e77aacaa0bcb11ca5846633b18"
+hash = "7784485febfbf625debcc1baa6afcd26a0ce866e2c9922293c205f0ee4a92c44"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
