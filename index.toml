@@ -1081,6 +1081,14 @@ file = "kubejs/server_scripts/remove/intense_horror.js"
 hash = "2db1d466750efa6973a0e0bef98e62ce9343c666ecdca79d86c6ae4a46c70382"
 
 [[files]]
+file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
+hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
+
+[[files]]
+file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
+hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
+
+[[files]]
 file = "mods/aarokends-dungeons-and-monsters.pw.toml"
 hash = "b35b5d3368d5403444e942f56b48756fe40a7f130b115427a41ff9037b3b6c06"
 metafile = true
@@ -1163,11 +1171,6 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
-metafile = true
-
-[[files]]
-file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
-hash = "80db178589041112037ca8a590b9208f139bbbbb53c3e1c864414b494c04ba1f"
 metafile = true
 
 [[files]]
@@ -2385,11 +2388,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
-metafile = true
-
-[[files]]
-file = "mods/spooky-paintings.pw.toml"
-hash = "c3f36509be553d21f1998e63de8d8d52afd58dbed72f2a4e8de9934de3e6d48e"
 metafile = true
 
 [[files]]
