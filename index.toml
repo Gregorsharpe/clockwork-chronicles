@@ -1182,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
@@ -1392,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "880d32d2d885740383c594471c4a8cea7e8da7f991ad32825eacc94a28f27cad"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "8f8754eda6beb02d73da14294026af5fcc2c849fd07ae3b210136492e7fde95b"
 metafile = true
 
 [[files]]
@@ -2029,6 +2034,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
 
 [[files]]
