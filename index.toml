@@ -154,7 +154,7 @@ hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/consolefilter-common.toml"
-hash = "7784485febfbf625debcc1baa6afcd26a0ce866e2c9922293c205f0ee4a92c44"
+hash = "90304d5f22499b555c5693a3362d5009df0ea0b450f2bb9e70697eb28e4e3180"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
@@ -1045,10 +1045,6 @@ file = "global_packs/required_resources/Meow Society.zip"
 hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
 [[files]]
-file = "kubejs/client_scripts/hide/aarokends_dungeons_and_monsters.js"
-hash = "8b59eb2eb02055af7f20deb42d1fea0e8f4d947f14a069789a6511d8d89ed59a"
-
-[[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
@@ -1077,10 +1073,6 @@ file = "kubejs/server_scripts/origin_orb.js"
 hash = "671a22046f97a952571cf6731ba0bd4584d48ed703db872fc8e445279ca6df9f"
 
 [[files]]
-file = "kubejs/server_scripts/remove/aarokends_dungeons_and_monsters.js"
-hash = "6e6c8d26e9d96a1230fd2ec83c602dbfb105c2e440af0d5a824c07d6f8f77749"
-
-[[files]]
 file = "kubejs/server_scripts/remove/intense_horror.js"
 hash = "2db1d466750efa6973a0e0bef98e62ce9343c666ecdca79d86c6ae4a46c70382"
 
@@ -1095,11 +1087,6 @@ hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
 [[files]]
 file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
 hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
-
-[[files]]
-file = "mods/aarokends-dungeons-and-monsters.pw.toml"
-hash = "b35b5d3368d5403444e942f56b48756fe40a7f130b115427a41ff9037b3b6c06"
-metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
