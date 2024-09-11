@@ -1136,6 +1136,11 @@ hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
@@ -1168,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "1aaff9c7a621b3af82415312ee6a152b43dcd77c4bb24c9968a7cf37a4e1931a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
@@ -1397,6 +1407,11 @@ metafile = true
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "73d04361ac8c44b7128d1acf9bf4384f8e573ff3308065047f8675112540c9c9"
 metafile = true
 
 [[files]]
@@ -1932,10 +1947,6 @@ hash = "8194c7ed927d413b2a0edb06a0e6cdf8fa7826ed313dfc4147fe9c4fd05a65f5"
 metafile = true
 
 [[files]]
-file = "mods/mobfilter-0.0.8-1.20.1.jar"
-hash = "c532fbcf882a212edf96c852c291f61fc5205807402d47433d0b95d111848999"
-
-[[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
 metafile = true
@@ -2069,8 +2080,23 @@ hash = "9fd9b86bdb5097fea5f7eafe7cc5561802db9bda3509aa6e5e7801a08ca435c1"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
+metafile = true
+
+[[files]]
 file = "mods/pickable-pets.pw.toml"
 hash = "576dc5ee0eca31b7b1e01d42bba99afe7039f9f7949e2a0db0ee06603091578a"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "85272341e2e6dc85fd6ecc36f959575028ee63668b366e7ab446779013a9ad0e"
 metafile = true
 
 [[files]]
@@ -2091,6 +2117,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
 metafile = true
 
 [[files]]
@@ -2145,6 +2176,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "07b39be29b40ce14304e24c0674342228d697ffcc393a9d7215acb94746b222f"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
