@@ -2319,6 +2319,11 @@ hash = "986e846f6f2d007d441bd76f4b768e36c7e18ac531c4edbfea7f22375242a88e"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "df9bb6ec5a8d43ce0faf7a161cad242717f83d43d993706daeb5b233daa0c4fe"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ee10ff198468b7bc9c1269fa828a0d0f09f99f00b36bc67474ead66e21a6f27b"
 metafile = true
