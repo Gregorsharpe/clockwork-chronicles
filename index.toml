@@ -1365,6 +1365,11 @@ hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "e2befb1a2536964266f522442362bc61b61a22b246ab0df167e7bf02de2eb2af"
 metafile = true
@@ -1707,6 +1712,11 @@ hash = "4368a805d2904edc9af0b5421c7d17286e440a5377ab319a34db960928e6e966"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "f4c2da6dca3b98278e50c31f15ee95f1af75e27e98bea5a68e7f1e6aaff952f0"
 metafile = true
@@ -1872,6 +1882,11 @@ hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
 metafile = true
@@ -1989,6 +2004,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "4c0251ac6bb2f84ae540ddd3c5619fa1d126ca6f55679ed898a1cdf0f5932135"
 metafile = true
 
 [[files]]
