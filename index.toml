@@ -1166,6 +1166,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
+hash = "80db178589041112037ca8a590b9208f139bbbbb53c3e1c864414b494c04ba1f"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "26e885a51a5e758a55309808bb8d9d3c56237a195b9849a51606772713a9f24d"
 metafile = true
@@ -1400,6 +1405,11 @@ hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "a8970be6634796012dc1b80fc0103479c23fb8630fce249997d9be55462162a6"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -1415,8 +1425,18 @@ hash = "bbc43924cbbcf3e61d844386ee6e37a4910adde3968cee47cdb6529d7a0b256f"
 metafile = true
 
 [[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "8e5ce8a9ef2feec390abd7b8ae5d8b9f40979530656242fe3fe5b11205dc4f93"
+metafile = true
+
+[[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
 hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "b61daed4761340828464f28f2b95b1b64d62d6868852a9f4b005a549a75a3d29"
 metafile = true
 
 [[files]]
@@ -1455,6 +1475,11 @@ hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "850837acd5d51a7d3c0f4ffb2d6cf3634194d996179955ae0855f1c064355988"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
 metafile = true
@@ -1467,6 +1492,16 @@ metafile = true
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "bdc1edf884563581a4e0dbfad766bee6f846045ef5ee2a22cf16d7d09186dc21"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "0b4ba1babc1ac58e27d41b810a2e68f58cfb140b4dfe3fe5da35f8a0fa2ecf59"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "baf210a08f4de9eded940ffef01acfe8f9d08d39c485886aa7a4e22baa27bbd8"
 metafile = true
 
 [[files]]
@@ -1727,6 +1762,11 @@ hash = "4368a805d2904edc9af0b5421c7d17286e440a5377ab319a34db960928e6e966"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "369f3013a596475087c7d0cef15b43e040eeb9360efe8e3db4a870a714d21705"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
 hash = "563b356f5a2cd1c12ef99ef6577ba4f3745719708c3b405b869a551dbb4cfa83"
 metafile = true
@@ -1759,6 +1799,11 @@ metafile = true
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "9f3f3e7322198967d60aa2a073cd1423326835f99717ef3b1f45da121aa118fe"
+metafile = true
+
+[[files]]
+file = "mods/itemzoom.pw.toml"
+hash = "6641b70b57ddcbeaf3b4da664a5a14246a206c2c1341ab9ba682a4baff7d0123"
 metafile = true
 
 [[files]]
@@ -1957,6 +2002,11 @@ hash = "3f1eea2dd5059eaf390788895a15e83e906083f2013fc0d8cf4bff74c4a99726"
 metafile = true
 
 [[files]]
+file = "mods/mavm.pw.toml"
+hash = "c5c23cd1b5ebe15dc83ead959df0873e8b87f57f6af95fd515adb267c3781116"
+metafile = true
+
+[[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "7e0f29f19df03f61b630aa14718a310ccd25b59e046453e60c013e633fa0740d"
 metafile = true
@@ -2029,6 +2079,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "885e7c155684fb5f46ce80c2b423c6b8fff88d15b37e1a6df36395182e139f63"
 metafile = true
 
 [[files]]
@@ -2127,6 +2182,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "85272341e2e6dc85fd6ecc36f959575028ee63668b366e7ab446779013a9ad0e"
+metafile = true
+
+[[files]]
+file = "mods/placeables.pw.toml"
+hash = "677fc9e65a439908691c1c5b85fa5f5ee693decfbb5e7bad15bae2d4b37a4b99"
 metafile = true
 
 [[files]]
@@ -2254,6 +2314,11 @@ hash = "ee10ff198468b7bc9c1269fa828a0d0f09f99f00b36bc67474ead66e21a6f27b"
 metafile = true
 
 [[files]]
+file = "mods/simplehats.pw.toml"
+hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
+metafile = true
+
+[[files]]
 file = "mods/skinlayers3d-forge-1.6.7-mc1.20.1.jar"
 hash = "bb06fc8dd47a9dc713b74a79b12c9a8b35e6b75ab874ecfbd78d8368ea22d39d"
 
@@ -2275,6 +2340,11 @@ metafile = true
 [[files]]
 file = "mods/snad.pw.toml"
 hash = "3ad4e9731f8c3bcef4534354ffe2a9557f528ca453de4e6d52f2f560d273032a"
+metafile = true
+
+[[files]]
+file = "mods/snekcraft.pw.toml"
+hash = "70c28588f9217c3ec9146798e4ee893d0b3e3bb8650378ccc5c327ad3a8cafa3"
 metafile = true
 
 [[files]]
@@ -2300,6 +2370,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/spooky-paintings.pw.toml"
+hash = "c3f36509be553d21f1998e63de8d8d52afd58dbed72f2a4e8de9934de3e6d48e"
 metafile = true
 
 [[files]]

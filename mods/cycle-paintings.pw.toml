@@ -1,0 +1,13 @@
+name = "Cycle Paintings"
+filename = "cyclepaintings-1.20.1-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "439c4f2799b9e87ae045bac406fea8a87078f6ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5572758
+project-id = 345973
