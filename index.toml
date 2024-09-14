@@ -154,7 +154,7 @@ hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/consolefilter-common.toml"
-hash = "90304d5f22499b555c5693a3362d5009df0ea0b450f2bb9e70697eb28e4e3180"
+hash = "799d6c05f5b2e0631597e3e98ec2155dcc1bb5ffb9066195613abf6cffb4da63"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
@@ -1498,6 +1498,11 @@ hash = "bdc1edf884563581a4e0dbfad766bee6f846045ef5ee2a22cf16d7d09186dc21"
 metafile = true
 
 [[files]]
+file = "mods/doggychunks.pw.toml"
+hash = "cb5de64cc6b9fdcf03d9710156ebc31bd31eaabd598b39d9d0f1df2c273fc11d"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "0b4ba1babc1ac58e27d41b810a2e68f58cfb140b4dfe3fe5da35f8a0fa2ecf59"
 metafile = true
@@ -1510,6 +1515,11 @@ metafile = true
 [[files]]
 file = "mods/drp-global-datapack.pw.toml"
 hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
 metafile = true
 
 [[files]]
