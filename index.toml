@@ -949,6 +949,10 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "defaultconfigs/computercraft-server.toml"
+hash = "70d832b2319dd886b07e9b2b48b6766e71db8019f011c54732496b18898dda8c"
+
+[[files]]
 file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
 hash = "8470ec459a972b17d665f56dd0a260a02057a3c9eb9261483f021e1acf2c522b"
 
@@ -2139,11 +2143,6 @@ hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
 metafile = true
 
 [[files]]
-file = "mods/oc2r.pw.toml"
-hash = "7236f106f2e0685fce7e3da0b4db936359ca7f3410c47f46c217dd35f719afa5"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
@@ -2304,11 +2303,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
-metafile = true
-
-[[files]]
-file = "mods/sedna.pw.toml"
-hash = "201a5323a43ecff7adf2ab00b4f69a619f8d6b6be4f3f05534684d949882226c"
 metafile = true
 
 [[files]]
