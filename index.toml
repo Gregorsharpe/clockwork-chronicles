@@ -1065,6 +1065,10 @@ file = "kubejs/client_scripts/hide/simplemagnets.js"
 hash = "2d3101bdcf06cb7442afb399db028f20007ba670364729152eb4ff0ead6574f3"
 
 [[files]]
+file = "kubejs/client_scripts/hide/wither_skele_tweaks.js"
+hash = "20a9fa4b21fbc2684cb19f7a6ccd63fb2c8767d61c8852dd1cfc94090f7c4e45"
+
+[[files]]
 file = "kubejs/server_scripts/beer_mod.js"
 hash = "9e6b5c7c6fb28626ea9a89e12919b08e44c63698c3ccad1432424ef280265e6e"
 
@@ -1087,6 +1091,10 @@ hash = "2db1d466750efa6973a0e0bef98e62ce9343c666ecdca79d86c6ae4a46c70382"
 [[files]]
 file = "kubejs/server_scripts/remove/simplemagnets.js"
 hash = "da1a6ef067ae25cc5482d1162eca44ab98ff3431d6982f9149639702e0b151d5"
+
+[[files]]
+file = "kubejs/server_scripts/remove/wither_skele_tweaks.js"
+hash = "b8d9c2640fc8817456742170dd76e32208e4b2207a1440b1f486b00e80ad2aa7"
 
 [[files]]
 file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
