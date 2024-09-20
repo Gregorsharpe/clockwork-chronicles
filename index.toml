@@ -1767,6 +1767,11 @@ file = "mods/hexcasting-forge-1.20.1-0.11.1-7-pre-668.jar"
 hash = "7b6a14bcee46e3bb1f71c896364d5ab1042b662529b130a66f297d154e32bda1"
 
 [[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "28c1b2fb15c38c83c482e3dd1ae05a06a7d400bbc01d94848eb80bfc179279a8"
+metafile = true
+
+[[files]]
 file = "mods/hexerei-0.4.1.jar"
 hash = "690ce65272d3c4f0e69d87b499e558e6d8477f84682bcb14ec2e902ed49fa42a"
 
