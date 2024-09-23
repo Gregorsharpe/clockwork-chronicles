@@ -1534,11 +1534,6 @@ hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
 metafile = true
 
 [[files]]
-file = "mods/ducky-periphs.pw.toml"
-hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "c8494f6742be50f19874485af7f0ba4f0273361189efe6cf8b7e52721b3833b1"
 metafile = true
