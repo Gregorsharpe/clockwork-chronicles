@@ -1229,6 +1229,21 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
+hash = "e0d521cf1a52a23ed3363a4ef21aa10fadcec575d7ef5003847d7b62e0159f2c"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-nether-forge.pw.toml"
+hash = "2669f9943231f6a558c31c74254bdddece80e9d277bcb1cc69d9d6b368d70bed"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-forge.pw.toml"
+hash = "24ad6267de92ca67df0649cd99f7efdcaf38927d230c083d2bec0ea957c60762"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
@@ -1345,6 +1360,11 @@ metafile = true
 [[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "b741a14460455f39b801d112b40e244e1c3e31ba8aa5450ba2adc8a745bb9688"
+metafile = true
+
+[[files]]
+file = "mods/castle-in-the-sky-the-fairytale-of-laputa.pw.toml"
+hash = "fff2a5386f91eaf57f92ed8c808ea4837233bf0d003f5ed10e1ad7332109e419"
 metafile = true
 
 [[files]]
@@ -1703,6 +1723,11 @@ hash = "e10ad8b56bdc0b6ad36551004d7d5cde964cf6ea232dd356c3d2b99982715a70"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "78a091260b9222015297aed566ff0302c84a3111f0e168b79bde1927df3d0205"
 metafile = true
@@ -1760,6 +1785,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
 hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
+
+[[files]]
+file = "mods/epic-dungeons-a-roguelike-journeyy.pw.toml"
+hash = "f4ebd47127d96c54516bca9eec8279e18c4adceae5d237a9d102d744badc64e7"
+metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
@@ -2740,8 +2770,18 @@ hash = "65e2f876769b7392d0a96fd7a5f8f108457ef87eaebe91b6dd0416ce543c071e"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "297ffd0a7ccc9c2cc243dca218122359d256302b0d1d6f2ffffacdae68a3bcc1"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
