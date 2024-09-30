@@ -257,10 +257,6 @@ file = "config/extremesoundmuffler-client.toml"
 hash = "7ecfa3371fcc60bf07d40954c061d3dc4ec647806a9250e9cc391c35b220107d"
 
 [[files]]
-file = "config/eyesinthedarkness-client.toml"
-hash = "030ee3fc2f9bef247eeddd0b9d172338e05bf67714a6f78a8efa582ce828b36a"
-
-[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -689,10 +685,6 @@ file = "config/lootr-client.toml"
 hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
-file = "config/lootr-common.toml"
-hash = "b26ca5b04be80d765070f57969c621f93c6f108f946d9623fdf8e695d8855960"
-
-[[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "db013b1aca1e13b1d6f7f3598093c70e828c645d395af31488858c6ed3a59402"
 
@@ -1025,10 +1017,6 @@ file = "global_packs/required_resources/Better illagers.zip"
 hash = "db3ac585283ee67d2659b9351d550e7af2fedadb35b3a0b2c0fd2ad20149c804"
 
 [[files]]
-file = "global_packs/required_resources/CaveDweller_SoundOverhaul.zip"
-hash = "1c67b122105fef07d67d4cf1ff3d5ca6526710fb6c2de528b874101810ba2ef8"
-
-[[files]]
 file = "global_packs/required_resources/Create-Energistics-1.1.1-mc1.20.1.zip"
 hash = "b2f0fb2f99c78201e51fd49b6e7253739fe732f629b4e013e50a0c4a9ba7c74b"
 
@@ -1057,10 +1045,6 @@ file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
 [[files]]
-file = "kubejs/client_scripts/hide/intense_horror.js"
-hash = "cd886ebaea5e2cf260afe77f689611ee68dc30e5f968e3a4a59747993c1e2511"
-
-[[files]]
 file = "kubejs/client_scripts/hide/simplemagnets.js"
 hash = "2d3101bdcf06cb7442afb399db028f20007ba670364729152eb4ff0ead6574f3"
 
@@ -1083,10 +1067,6 @@ hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
 hash = "671a22046f97a952571cf6731ba0bd4584d48ed703db872fc8e445279ca6df9f"
-
-[[files]]
-file = "kubejs/server_scripts/remove/intense_horror.js"
-hash = "2db1d466750efa6973a0e0bef98e62ce9343c666ecdca79d86c6ae4a46c70382"
 
 [[files]]
 file = "kubejs/server_scripts/remove/simplemagnets.js"
@@ -1226,11 +1206,6 @@ metafile = true
 [[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "b741a14460455f39b801d112b40e244e1c3e31ba8aa5450ba2adc8a745bb9688"
-metafile = true
-
-[[files]]
-file = "mods/cave-dweller-reimagined.pw.toml"
-hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
 metafile = true
 
 [[files]]
@@ -1544,11 +1519,6 @@ hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
 
 [[files]]
-file = "mods/eerie-music-forge-fabric.pw.toml"
-hash = "8285ff831249213a9f1ab2e7322adab9bf8027ad8643d335c75295272c056f7c"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "f2ab69d3546c95bf14c09d98054b6588df80bb14dfc02799e38b8ac43e6e154e"
 metafile = true
@@ -1596,11 +1566,6 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
-metafile = true
-
-[[files]]
-file = "mods/eyes-in-the-darkness.pw.toml"
-hash = "2f17b05ab20578102769ec7764d8c573eaf33b5d3ebc1d94fcedac31455b9252"
 metafile = true
 
 [[files]]
@@ -1656,11 +1621,6 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f0985d39c6bb45984378049516de43f8faa6ee52ac74487d67442452cbf84d60"
-metafile = true
-
-[[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
 
 [[files]]
@@ -1749,11 +1709,6 @@ hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
-file = "mods/healing-campfire.pw.toml"
-hash = "c13c08f6d9ad7a8f2939f6bb5e55f7953fc465d8d29756b957035fc1dbf05a8a"
-metafile = true
-
-[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-3.jar"
 hash = "15b73c82cd6abeec44e6842eb0f435069b9f417b9004d457a4f1b3eb3f51aa71"
 
@@ -1769,11 +1724,6 @@ metafile = true
 [[files]]
 file = "mods/hexerei-0.4.1.jar"
 hash = "690ce65272d3c4f0e69d87b499e558e6d8477f84682bcb14ec2e902ed49fa42a"
-
-[[files]]
-file = "mods/horror-elements-mod.pw.toml"
-hash = "3048d1a7bb9553f149ef5cf662b8f48f814b75fb099641a596b1afedcc81245c"
-metafile = true
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
@@ -1813,11 +1763,6 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "60a2a4521cc9ae1136bcc96a5b04ac4b9317c56b263909fe511ff5607b6bedb5"
-metafile = true
-
-[[files]]
-file = "mods/intense-horror.pw.toml"
-hash = "fcd00f368cea79073163f5d5b21b1e7395732910029d02fb1d1c668373fffa2c"
 metafile = true
 
 [[files]]
@@ -2184,11 +2129,6 @@ file = "mods/paucal-0.6.0-pre-6+1.20.1-forge.jar"
 hash = "94bc8eaaec62d20e257529f0e83d8b09564a0fbdeb7a0119942d36fbd1554258"
 
 [[files]]
-file = "mods/peeping-tom.pw.toml"
-hash = "10bb7f5858ed05138e5943a3baa2a67d1bcd28c56770dcb0fa73b0ec3bc9758c"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
@@ -2201,11 +2141,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9189983623b36c936ee4e3c7ad70407899a2fe9fe31498a5b6e1b8a03913f23e"
-metafile = true
-
-[[files]]
-file = "mods/pickable-pets.pw.toml"
-hash = "576dc5ee0eca31b7b1e01d42bba99afe7039f9f7949e2a0db0ee06603091578a"
 metafile = true
 
 [[files]]
@@ -2300,16 +2235,6 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
-metafile = true
-
-[[files]]
-file = "mods/sanity-descent-into-madness.pw.toml"
-hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
-metafile = true
-
-[[files]]
-file = "mods/scp-overtime.pw.toml"
-hash = "443560d12ceb0507bd4e99bc64e6db061a6ce67686a8180d3042db3433b64d17"
 metafile = true
 
 [[files]]
@@ -2568,11 +2493,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
-metafile = true
-
-[[files]]
-file = "shaderpacks/insanity-shader.pw.toml"
-hash = "5408f2e2dc93c0ad15ceee15bd6370e1ad052887df7ef1a6c8188fd1a049b3d1"
 metafile = true
 
 [[files]]
