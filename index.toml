@@ -1731,9 +1731,8 @@ hash = "0046de3e818c02cb4fc3ad9e698ed0aae2459c601250c867fdd74d9015f08477"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
-metafile = true
+file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
+hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
