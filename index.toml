@@ -33,6 +33,42 @@ file = "config/akashictome-common.toml"
 hash = "1570c4025fc3501c1c98b8b74883f9274046f7cfd87816a763a517eedcbe8533"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "89293e735c6587390f82a801b2123fbe118777f88b7ad8370abd54d99dc9e0dc"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "9665f22f77597b42cf5adc02e351253525fd76dd45b885f258dafbb038a24e26"
+
+[[files]]
+file = "config/apotheosis/ench.cfg"
+hash = "6fbf05e2719f095908f8196a694f6a8f36bc39c7d5e71644b0ea55e025c8b80f"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "b4b9e898cd1473e45a3d114a65855ad28c7b2079e8545537e723c8824e1be172"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "e4e26ba5c74e849ea0aca59281ce8b916f80c84e7d0524943e605ce92903b51f"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "ee6606bd0ed2da8c76b0e4281d67e71488f5bb2a63be52f97a1a540db307b39b"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "eb5ccfa9af9f8723d9012193f4fd623373038dc323b30262f6d9ab3e2286853c"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "d1d2b648d3889aa594a69c2841dc7670f319149a766790c14e8497c00c425534"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "e107b59d9f2fc528d7f0f705fc96db903ca897af2151e91a1eb5e8ab2c338996"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
@@ -2174,6 +2210,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-delight.pw.toml"
 hash = "a3774b5c23d616cbf1cf9322577e185b5cd7f16cc721ad5c60303d6145361415"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism-unofficial.pw.toml"
+hash = "a195d0ea25a8b006762a5fa1dd097f3acf1a884e0ef567bde11f696e587bd62d"
 metafile = true
 
 [[files]]
