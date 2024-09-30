@@ -1080,8 +1080,16 @@ file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar
 hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
 
 [[files]]
+file = "mods/Epic Dungeons-0.1.04-Forge-1.19-1.20.1.jar"
+hash = "66b0bdd050622338df1511ed4cf8bb01c4225124e4340ca7f9d9f15595954ba3"
+
+[[files]]
 file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
 hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
+
+[[files]]
+file = "mods/Structory_1.20.x_v1.3.5.jar"
+hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
 
 [[files]]
 file = "mods/ad-astra-extra.pw.toml"
@@ -1785,11 +1793,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.7.0-mc1.20.1.jar"
 hash = "b15caa9b329641097b063271b4187cad6c5f14a1d38cda0b9759240e5b42b3ee"
-
-[[files]]
-file = "mods/epic-dungeons-a-roguelike-journeyy.pw.toml"
-hash = "f4ebd47127d96c54516bca9eec8279e18c4adceae5d237a9d102d744badc64e7"
-metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
@@ -2767,11 +2770,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "65e2f876769b7392d0a96fd7a5f8f108457ef87eaebe91b6dd0416ce543c071e"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
 metafile = true
 
 [[files]]
