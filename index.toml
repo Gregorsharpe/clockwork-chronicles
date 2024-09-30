@@ -1013,6 +1013,11 @@ file = "global_packs/required_resources/ccc.zip"
 hash = "4a78c8af8a1810229fd955b656ec675ed99a30c780b666b92704a58d84af9371"
 
 [[files]]
+file = "global_packs/required_resources/mekanism-ctm-w-fusion.pw.toml"
+hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
+metafile = true
+
+[[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
@@ -2898,11 +2903,6 @@ hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
 [[files]]
 file = "resourcepacks/darker-pipez.pw.toml"
 hash = "1627221ba30af03ba40254a7d4a15fa8c7771bd05265bd1121b4e1ea3869a6b7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mekanism-ctm-w-fusion.pw.toml"
-hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
 metafile = true
 
 [[files]]
