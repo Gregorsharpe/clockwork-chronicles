@@ -1,0 +1,13 @@
+name = "Darker Pipez"
+filename = "Darker Pipez.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c71e8324e107f7c34a949edef09c5f0e0ebc7133"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5470613
+project-id = 1048836

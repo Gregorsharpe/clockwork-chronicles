@@ -1,0 +1,13 @@
+name = "Occultism Delight"
+filename = "occultismdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbf3af9a2848a1c1aa701d78041b80f1640f831a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5675110
+project-id = 1080899

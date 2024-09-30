@@ -1,0 +1,13 @@
+name = "Craft Slabs Back into Blocks [Fabric/Forge/NeoForge]"
+filename = "slabstoblocks-1.20.1-1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3e9d465e00b23c3e9be82348bfea98bc4c1ba92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4633735
+project-id = 704296

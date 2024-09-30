@@ -1,0 +1,13 @@
+name = "Decorative Railings"
+filename = "decorativerailings 1.20.1 - v1.1 - Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed7d20c6b5f51d934a8825df42b84ee5ff176c25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5709344
+project-id = 1020926
