@@ -302,7 +302,7 @@ hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
+hash = "73747a86eda1f4a5872eaee50ba88a8b00784d91871131a5039b18be90f73ab4"
 
 [[files]]
 file = "config/graveyard/the-graveyard-3.0-config.json5"
@@ -967,6 +967,61 @@ hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
 [[files]]
 file = "global_packs/required_resources/Meow Society.zip"
 hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
+
+[[files]]
+file = "global_packs/required_resources/als-boss-rush-x-fresh-animations.pw.toml"
+hash = "41e7a5f5c85e2d03bb4187af993c64b8af71955737c57b7d31da5906726528ec"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-boss-rush.pw.toml"
+hash = "ef442cab15515890f17d79fdcce0f0969dc7933c1cacd74f7cd01ebb46a19a4a"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-golems-revamped-x-fresh-animations.pw.toml"
+hash = "d72e009f86dccf96304e786870322abfc16cc25381b84300466e605c45fa2838"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-golems-revamped.pw.toml"
+hash = "6e1baf93232943acc5fc8790a5f970e5791c8bcf35a9c0412e1ae12f13fa70a1"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-spiders-revamped-x-fresh-animations.pw.toml"
+hash = "52fbad4eec8cd1b2884154a9de28ffeb08a4e3f9ea09f86e003c5d86a49da3dc"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-spiders-revamped.pw.toml"
+hash = "b7bba9358c074bbbed8e9555a293d966e32ca3e203d61e80a216b02345dded4a"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "2af386c11fab53ae48fce4429649079d05eb76e8762fb250f3ec4b5861338b3b"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/als-zombies-revamped.pw.toml"
+hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/ccc.pw.toml"
+hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/fresh-animations.pw.toml"
+hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/mekanism-ctm-w-fusion.pw.toml"
+hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
+metafile = true
 
 [[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
@@ -2852,63 +2907,8 @@ file = "resourcepacks/SmoothFont_1.20.zip"
 hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
 
 [[files]]
-file = "resourcepacks/als-boss-rush-x-fresh-animations.pw.toml"
-hash = "41e7a5f5c85e2d03bb4187af993c64b8af71955737c57b7d31da5906726528ec"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-boss-rush.pw.toml"
-hash = "ef442cab15515890f17d79fdcce0f0969dc7933c1cacd74f7cd01ebb46a19a4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-golems-revamped-x-fresh-animations.pw.toml"
-hash = "d72e009f86dccf96304e786870322abfc16cc25381b84300466e605c45fa2838"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-golems-revamped.pw.toml"
-hash = "6e1baf93232943acc5fc8790a5f970e5791c8bcf35a9c0412e1ae12f13fa70a1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-spiders-revamped-x-fresh-animations.pw.toml"
-hash = "52fbad4eec8cd1b2884154a9de28ffeb08a4e3f9ea09f86e003c5d86a49da3dc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-spiders-revamped.pw.toml"
-hash = "b7bba9358c074bbbed8e9555a293d966e32ca3e203d61e80a216b02345dded4a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
-hash = "2af386c11fab53ae48fce4429649079d05eb76e8762fb250f3ec4b5861338b3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped.pw.toml"
-hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ccc.pw.toml"
-hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
-metafile = true
-
-[[files]]
 file = "resourcepacks/darker-pipez.pw.toml"
 hash = "1627221ba30af03ba40254a7d4a15fa8c7771bd05265bd1121b4e1ea3869a6b7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mekanism-ctm-w-fusion.pw.toml"
-hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
 metafile = true
 
 [[files]]
