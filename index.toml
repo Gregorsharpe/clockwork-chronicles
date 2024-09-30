@@ -949,8 +949,24 @@ file = "global_packs/required_resources/Better Spiders.zip"
 hash = "891d1e219c1f59ba3ecfb8b2b3bc40297f5b95f60b1bc1bf82cc6f0c118a1d28"
 
 [[files]]
+file = "global_packs/required_resources/Better Villagers.zip"
+hash = "2cfb3c6b821a49e189da0e495640e2f86a1f3d6c86cee6781279a1f1fe55f25c"
+
+[[files]]
+file = "global_packs/required_resources/Better illagers.zip"
+hash = "db3ac585283ee67d2659b9351d550e7af2fedadb35b3a0b2c0fd2ad20149c804"
+
+[[files]]
 file = "global_packs/required_resources/CreeperOverhaulOverhaul_1.18.1-1.0.zip"
 hash = "bf05b3d9dfad6398a4caa0ffcedb21475ce25d55f9aef9c1d57946f72d76f2b2"
+
+[[files]]
+file = "global_packs/required_resources/Fabulous Foliage.zip"
+hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
+
+[[files]]
+file = "global_packs/required_resources/Meow Society.zip"
+hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
 [[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
@@ -2876,16 +2892,6 @@ hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-illagers.pw.toml"
-hash = "03905aca35d3c4455a926f64a29c4e02340faa794f11592861165c34643f42d2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-villagers.pw.toml"
-hash = "67045e8853296460d0d08869c4db6e10da141afde442e8b0d69cdb11d110429a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/ccc.pw.toml"
 hash = "a864f90ec46c0f6dcd94b19d214d02b8605b00dfa568f36d2d5a08d819d6c9ff"
 metafile = true
@@ -2896,11 +2902,6 @@ hash = "1627221ba30af03ba40254a7d4a15fa8c7771bd05265bd1121b4e1ea3869a6b7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fabulous-foliage.pw.toml"
-hash = "04bc16b0420fafccc7d2ea24a6da3ce667879aee1dec35eb81fe3376bc875d44"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
 metafile = true
@@ -2908,11 +2909,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mekanism-ctm-w-fusion.pw.toml"
 hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/meow-society.pw.toml"
-hash = "bfbc42322085b3f1d67cfbecff811c09d239e7b96ae9d173156c1e32998430b1"
 metafile = true
 
 [[files]]
