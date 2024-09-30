@@ -1100,6 +1100,11 @@ hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "0179c7ddb89d772c7c5d645e212c98bf885c755753660b8deae9e7b1548bd44b"
 metafile = true
@@ -1399,6 +1404,11 @@ hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "a8970be6634796012dc1b80fc0103479c23fb8630fce249997d9be55462162a6"
 metafile = true
@@ -1534,6 +1544,11 @@ hash = "b8cccf49530803953b340152f8114c2565020824f6a00c3777634e51185ca8d9"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
+metafile = true
+
+[[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "278f0ad867e28ea3db374f989ec2670e61439fcb48c99bbcd18b377440251e15"
 metafile = true
@@ -1551,6 +1566,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "0046de3e818c02cb4fc3ad9e698ed0aae2459c601250c867fdd74d9015f08477"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
 metafile = true
 
 [[files]]
@@ -1681,6 +1701,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "3c35fc94cc89a4a1f2803ddc98fd0f530874d9d3950072f283428d48359f4c06"
 metafile = true
 
 [[files]]
@@ -1861,6 +1886,11 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "951a4a6232f864acf04aca8d17f3233ec1a2be9a8b7928239a7a9e2faebb42c0"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-additions.pw.toml"
 hash = "b175e1a1408708cf78e211c8e768540d23e942f34a1efef1772e06abe820a5b0"
 metafile = true
@@ -1878,11 +1908,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
-metafile = true
-
-[[files]]
-file = "mods/leaky.pw.toml"
-hash = "ba3aa25a5f522e55225ad0bc52bc4011864ad5fe24ca25dbea32fb7dde29753f"
 metafile = true
 
 [[files]]
@@ -1983,6 +2008,11 @@ metafile = true
 [[files]]
 file = "mods/memory-settings.pw.toml"
 hash = "7e0f29f19df03f61b630aa14718a310ccd25b59e046453e60c013e633fa0740d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
@@ -2213,6 +2243,11 @@ hash = "90b121a91bd521fbe23b396f7211da0ffe0aecaa003394604fe8e69dab29ed9c"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
 metafile = true
@@ -2324,6 +2359,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
