@@ -1,0 +1,13 @@
+name = "AL's Spiders Revamped"
+filename = "AL's Spiders Revamped 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3ec1077e43a84925d403b106fbc7d9621eefda8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5224086
+project-id = 955886

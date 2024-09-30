@@ -1,0 +1,13 @@
+name = "AL's Spiders Revamped x Fresh Animations"
+filename = "AL's Spiders Revamped+FA 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34892230bf14c1e28ad7152e618f2c27bfc66044"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5224109
+project-id = 956374

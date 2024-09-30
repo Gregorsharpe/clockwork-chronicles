@@ -1,0 +1,13 @@
+name = "AL's Golems Revamped x Fresh Animations"
+filename = "AL's Golems Revamped+FA 1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d0e8969116c437874d2b79e4e54fc1a84a47702"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5294957
+project-id = 948194
