@@ -1836,11 +1836,6 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
-file = "mods/just-zoom.pw.toml"
-hash = "87139f6e32088004ed961a10bf2206da8548edc2acf34039dbcf20a070599f53"
-metafile = true
-
-[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "c0894888e53e83d95ae42461560173d257e82e13a03cda88103473f886856930"
 metafile = true
@@ -2324,6 +2319,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
 metafile = true
 
 [[files]]
