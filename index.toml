@@ -841,6 +841,18 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
+file = "config/starterkit.json5"
+hash = "1c77e04e7935a48c64249c6e17e7d995e1cdf13aeef9f22983dc88f87aa02ed9"
+
+[[files]]
+file = "config/starterkit/descriptions/spawn_kit.txt"
+hash = "c5de1bffb3509eb35cc0de7ccf6d2adbf83635e6d40f349cc97d2eb1c6bea8c6"
+
+[[files]]
+file = "config/starterkit/kits/spawn_kit.txt"
+hash = "ff315e474db21ffe392d2ab1c9e44046be197edc0517fca87ea87ca5b4f79378"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "ef0987439438cdd110e3d940c15c3a50fd9d602bf0963aebb34308700e7217e8"
 
@@ -2299,11 +2311,6 @@ metafile = true
 [[files]]
 file = "mods/mobtimizations.pw.toml"
 hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
-metafile = true
-
-[[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
 metafile = true
 
 [[files]]
