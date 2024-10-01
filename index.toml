@@ -1467,6 +1467,11 @@ hash = "98952c950b934d7897e58d3602dab4a1ec64d63fa672d11b1320c7c09ef026fa"
 metafile = true
 
 [[files]]
+file = "mods/cleanview.pw.toml"
+hash = "996513f43b46a892cc7c67b66c37e7bfdb602aec96c143817fd3a0fcffc4522d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -1998,6 +2003,11 @@ metafile = true
 [[files]]
 file = "mods/gunpowderlib.pw.toml"
 hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+hash = "87ee798202183b64997cc36e88d5fb70330ce71da6797a0efaf537839eea78a2"
 metafile = true
 
 [[files]]
@@ -2841,6 +2851,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "4811cb63ecde42d2148a1a55f9d6fced7ca7ffb92ef27901f4ff693a88c192c2"
 metafile = true
 
 [[files]]
