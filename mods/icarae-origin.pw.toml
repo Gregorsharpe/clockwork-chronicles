@@ -1,0 +1,13 @@
+name = "Icarae Origin"
+filename = "Icarae-Origin-NeoForge-1.1.0-alpha.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c55647362a55435112b7b8c58f2563fa320dc00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5322280
+project-id = 1001139
