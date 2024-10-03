@@ -718,7 +718,7 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "2c25e1e4440b0b9132bb359297342240cf1a94d9d2826b954340552e5f6896f2"
+hash = "e6012312d1426d03dfc08840180cb06c3dc120a09a8f2fb999477c8c74ba3650"
 
 [[files]]
 file = "config/man_config.toml"
