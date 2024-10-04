@@ -1124,10 +1124,6 @@ file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
 hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
 
 [[files]]
-file = "mods/Multiworld-Forge-1.20.1.jar"
-hash = "ee0c931e866debb7619a79824b3846092c4dd191cd7b200235e3f56ab0b0e7d3"
-
-[[files]]
 file = "mods/Structory_1.20.x_v1.3.5.jar"
 hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
 
