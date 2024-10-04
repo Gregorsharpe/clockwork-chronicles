@@ -1457,8 +1457,13 @@ hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
 metafile = true
 
 [[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "d1df04561c1f8032d0e81ea295667b805bcba81941df7ae452da0340d8bfa282"
 metafile = true
 
 [[files]]
@@ -1749,11 +1754,6 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "018a734cf769668782dc519d780801640e5e7c5103cf0e3b32805d292c244c0c"
-metafile = true
-
-[[files]]
-file = "mods/dimensional-worldborder-continuation.pw.toml"
-hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
 metafile = true
 
 [[files]]
