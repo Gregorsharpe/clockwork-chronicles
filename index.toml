@@ -1124,6 +1124,10 @@ file = "mods/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar"
 hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
 
 [[files]]
+file = "mods/Multiworld-Forge-1.20.1.jar"
+hash = "ee0c931e866debb7619a79824b3846092c4dd191cd7b200235e3f56ab0b0e7d3"
+
+[[files]]
 file = "mods/Structory_1.20.x_v1.3.5.jar"
 hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
 
@@ -1457,8 +1461,8 @@ hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
+file = "mods/chunkpregenerator.pw.toml"
+hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
 metafile = true
 
 [[files]]
