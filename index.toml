@@ -3004,6 +3004,11 @@ hash = "4ec366ce2c259f3f94c01bf25a0dd46105c9b319bebc08332ef94682da8b31f4"
 metafile = true
 
 [[files]]
+file = "mods/ultimatespawn.pw.toml"
+hash = "a1bfba48b23c3806807e69d97b4b57998cc5d5ae7e44722a2d3d0faf75036508"
+metafile = true
+
+[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "75624150e904cfc0591685b23c7a076f3cf0d44963610f634e08afb28630c06e"
 metafile = true

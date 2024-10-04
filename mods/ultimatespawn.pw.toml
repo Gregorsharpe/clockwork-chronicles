@@ -1,0 +1,13 @@
+name = "UltimateSpawn"
+filename = "UltimateSpawn-forge-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfa7531a137b3336038a32be75fda6a16d853364"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592050
+project-id = 855574
