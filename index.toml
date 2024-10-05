@@ -1070,6 +1070,10 @@ file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
 [[files]]
+file = "kubejs/client_scripts/hide/industrial_foregoing.js"
+hash = "5350ae4bf69cf4df915e68cc4dc741c25707b404ecfd19bf26995c945d5ec770"
+
+[[files]]
 file = "kubejs/client_scripts/hide/simplemagnets.js"
 hash = "2d3101bdcf06cb7442afb399db028f20007ba670364729152eb4ff0ead6574f3"
 
@@ -1082,6 +1086,10 @@ file = "kubejs/server_scripts/beer_mod.js"
 hash = "9e6b5c7c6fb28626ea9a89e12919b08e44c63698c3ccad1432424ef280265e6e"
 
 [[files]]
+file = "kubejs/server_scripts/corail_tombstone.js"
+hash = "7beecd10422c94802ed7b9549eb01198399535be8361656528ef98b079059a6f"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
@@ -1092,6 +1100,10 @@ hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
 hash = "671a22046f97a952571cf6731ba0bd4584d48ed703db872fc8e445279ca6df9f"
+
+[[files]]
+file = "kubejs/server_scripts/remove/industrial_foregoing.js"
+hash = "61b0da5e39db915ebf88e49942bdc1692430e5d1fc72b227e0d11eb413e8a92b"
 
 [[files]]
 file = "kubejs/server_scripts/remove/simplemagnets.js"
