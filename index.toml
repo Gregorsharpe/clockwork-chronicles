@@ -798,7 +798,11 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/pregen/base.cfg"
-hash = "f4b8bba6c0df0d5cd93b07d4bcafee88eb5e7f405f15b4c9568d5308d241f421"
+hash = "e661c89a6408353ab1658fb531116b73d5b759d3902455b00991a4d715f53e42"
+
+[[files]]
+file = "config/pregen/expansion.cfg"
+hash = "30ba0f715c62467af45230be45e8ea733dc9011923875b4302c5c3a224e5f2e4"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -886,7 +890,7 @@ hash = "c5de1bffb3509eb35cc0de7ccf6d2adbf83635e6d40f349cc97d2eb1c6bea8c6"
 
 [[files]]
 file = "config/starterkit/kits/spawn_kit.txt"
-hash = "ff315e474db21ffe392d2ab1c9e44046be197edc0517fca87ea87ca5b4f79378"
+hash = "74e6a34f237f9c1d670ed6887439c89ffba344d503a807aabbb4c66f36b39a3b"
 
 [[files]]
 file = "config/supplementaries-client.toml"
