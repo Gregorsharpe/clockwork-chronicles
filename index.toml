@@ -1116,6 +1116,10 @@ file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar
 hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
 
 [[files]]
+file = "mods/Chunk-Pregenerator-1.20-4.4.5-all.jar"
+hash = "3b728ad476884a3e6245abaf8e3f8cbc7076505f24c04ef600c63bb07711faa9"
+
+[[files]]
 file = "mods/Epic Dungeons-0.1.04-Forge-1.19-1.20.1.jar"
 hash = "66b0bdd050622338df1511ed4cf8bb01c4225124e4340ca7f9d9f15595954ba3"
 
@@ -1454,11 +1458,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "4ab858babfd5ef7474b4e78c93b1819a78eef5b92ca30349f16aaa82f883fc55"
-metafile = true
-
-[[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
 metafile = true
 
 [[files]]
