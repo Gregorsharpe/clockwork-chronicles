@@ -1053,6 +1053,10 @@ file = "config/memorysettings.json"
 hash = "8516f0f21f37fdc1f376717d36d071d6ab77c09d65ac1fd7351b2e3c1cdbb810"
 
 [[files]]
+file = "config/moblassos-server.toml"
+hash = "71768e9db0cc586767a7c5f4f059fb12007c4e1d2ead77f2087ab854dba4b145"
+
+[[files]]
 file = "config/mobtimizations/features-customization.toml"
 hash = "76dfa266aad5984a159a995ab59355572625e158d1ba077991a14d86f94d9e65"
 
@@ -1354,18 +1358,8 @@ hash = "41e7a5f5c85e2d03bb4187af993c64b8af71955737c57b7d31da5906726528ec"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/als-boss-rush.pw.toml"
-hash = "ef442cab15515890f17d79fdcce0f0969dc7933c1cacd74f7cd01ebb46a19a4a"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/als-golems-revamped-x-fresh-animations.pw.toml"
 hash = "d72e009f86dccf96304e786870322abfc16cc25381b84300466e605c45fa2838"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/als-golems-revamped.pw.toml"
-hash = "6e1baf93232943acc5fc8790a5f970e5791c8bcf35a9c0412e1ae12f13fa70a1"
 metafile = true
 
 [[files]]
@@ -1374,8 +1368,8 @@ hash = "52fbad4eec8cd1b2884154a9de28ffeb08a4e3f9ea09f86e003c5d86a49da3dc"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/als-spiders-revamped.pw.toml"
-hash = "b7bba9358c074bbbed8e9555a293d966e32ca3e203d61e80a216b02345dded4a"
+file = "global_packs/required_resources/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "2af386c11fab53ae48fce4429649079d05eb76e8762fb250f3ec4b5861338b3b"
 metafile = true
 
 [[files]]
@@ -1424,6 +1418,10 @@ hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 [[files]]
 file = "kubejs/server_scripts/hexerei.js"
 hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
+
+[[files]]
+file = "kubejs/server_scripts/moblassos.js"
+hash = "699556335e2b5f9c3ea569a630ebe12eef736d913b422cc3fd0422ec32d6fe7c"
 
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
@@ -3448,26 +3446,12 @@ hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Better Spiders.zip"
-hash = "891d1e219c1f59ba3ecfb8b2b3bc40297f5b95f60b1bc1bf82cc6f0c118a1d28"
-
-[[files]]
 file = "resourcepacks/Create-Energistics-1.1.1-mc1.20.1.zip"
 hash = "b2f0fb2f99c78201e51fd49b6e7253739fe732f629b4e013e50a0c4a9ba7c74b"
 
 [[files]]
 file = "resourcepacks/SmoothFont_1.20.zip"
 hash = "3b529ae0095cf5d84d0b45f133f163e37ac4e22a81ec8138603476e3ae27b531"
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
-hash = "2af386c11fab53ae48fce4429649079d05eb76e8762fb250f3ec4b5861338b3b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/als-zombies-revamped.pw.toml"
-hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
-metafile = true
 
 [[files]]
 file = "resourcepacks/darker-pipez.pw.toml"
