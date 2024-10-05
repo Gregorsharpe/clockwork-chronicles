@@ -1149,6 +1149,10 @@ file = "config/simplebackups-common.toml"
 hash = "c6625975183acb64612f23030b28ded1332799fcd23a85208477a6862b48b2f4"
 
 [[files]]
+file = "config/simplehats.json"
+hash = "4a7ec26d66e75c059c68c674083375b14ef018ae9ed14283f8dc33ca72788a3c"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
