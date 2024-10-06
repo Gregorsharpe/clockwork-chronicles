@@ -2357,6 +2357,11 @@ hash = "1d77aca40b37d5a4a4b98318a700a8bbab4123e3fa51c0c07ad7693145ac80d4"
 metafile = true
 
 [[files]]
+file = "mods/guide-api-village-and-pillage.pw.toml"
+hash = "c15730bdd8e9e5b54d80f82d18d965370b2242e9da27b6188e13896810b7e49f"
+metafile = true
+
+[[files]]
 file = "mods/gunpowderlib.pw.toml"
 hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
