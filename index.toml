@@ -1361,6 +1361,10 @@ file = "global_packs/required_data/more mob heads v2.14.0 (MC 1.21-1.21.1).zip"
 hash = "de8adccf13adc1b617c457981437606e7a9e93e82eecd77c37846d9e3904249f"
 
 [[files]]
+file = "global_packs/required_data/player head drops v1.1.8 (MC 1.21-1.21.1).zip"
+hash = "70f7e0c3bba095d4d64acf2eee1db530a7d7b6340a57b324630af2a2eb2cf887"
+
+[[files]]
 file = "global_packs/required_data/silence mobs v1.2.2 (MC 1.21-1.21.1).zip"
 hash = "a173533a068b033f7762348381ec13d49e1186948c15cee40c16cffbdc495c98"
 
