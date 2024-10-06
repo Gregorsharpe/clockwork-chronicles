@@ -1097,6 +1097,10 @@ file = "config/naturescompass-common.toml"
 hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
 
 [[files]]
+file = "config/nerb.yaml"
+hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -1222,7 +1226,7 @@ hash = "c5de1bffb3509eb35cc0de7ccf6d2adbf83635e6d40f349cc97d2eb1c6bea8c6"
 
 [[files]]
 file = "config/starterkit/kits/spawn_kit.txt"
-hash = "74e6a34f237f9c1d670ed6887439c89ffba344d503a807aabbb4c66f36b39a3b"
+hash = "e420eea50ebbf30c7e38b183e58fe4857aebfa89d3a02afec6082a63d2532046"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1333,8 +1337,48 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
-file = "global_packs/required_data/simplehats_dropchance.zip"
-hash = "930be2f47208e8361af124955526655414ce3435809fe5ff01798332af0a2bce"
+file = "global_packs/required_data/afk display v1.1.8 (MC 1.21-1.21.1).zip"
+hash = "293a18c3751c1bb7847d0bb1ed4ac1dca3fd44dbcf2d62fa0b95bcb74ec671ca"
+
+[[files]]
+file = "global_packs/required_data/anti enderman grief v1.1.8 (MC 1.21-1.21.1).zip"
+hash = "2c843cbda28fe5be985b28fcb9990aed1f7ffd63cc2fdf9473ab866f37ae4fa7"
+
+[[files]]
+file = "global_packs/required_data/confetti creepers v2.2.9 (MC 1.21-1.21.1).zip"
+hash = "0d2f722f1d7a701b694591ba8fa688272ad11599e0eb66dbbd2fbe01ed271ce5"
+
+[[files]]
+file = "global_packs/required_data/double shulker shells v1.3.8 (MC 1.21-1.21.1).zip"
+hash = "02e14da8505f3be47e23750e0fca2feb0eacc02a383a5823f9767ef37fe6305d"
+
+[[files]]
+file = "global_packs/required_data/mini blocks v1.0.0 (MC 1.21-1.21.1).zip"
+hash = "147c38160cea5ba6f523ca14614cb2cbd683319df630bb5109e36b62f9150f75"
+
+[[files]]
+file = "global_packs/required_data/more mob heads v2.14.0 (MC 1.21-1.21.1).zip"
+hash = "de8adccf13adc1b617c457981437606e7a9e93e82eecd77c37846d9e3904249f"
+
+[[files]]
+file = "global_packs/required_data/silence mobs v1.2.2 (MC 1.21-1.21.1).zip"
+hash = "a173533a068b033f7762348381ec13d49e1186948c15cee40c16cffbdc495c98"
+
+[[files]]
+file = "global_packs/required_data/simplyhats_dropchance.zip"
+hash = "ec26985cb3c48005b58804f4a5966743274a2a51a780e4f20bdfd4ce5fa37000"
+
+[[files]]
+file = "global_packs/required_data/villager workstation highlights v1.1.8 (MC 1.21-1.21.1).zip"
+hash = "81263ffe65b583126e792ba35887bdc021c9f012b66d1f6b0558c55995d3b32a"
+
+[[files]]
+file = "global_packs/required_data/wandering trades v1.7.6 (MC 1.21-1.21.1).zip"
+hash = "38e2e61d8b4d2fba5c34a7bf9727e09c6c9f43ad1991940d616ed8dc7af2bd16"
+
+[[files]]
+file = "global_packs/required_data/wilds.zip"
+hash = "c2bacf6cb0bc883b38f42faaccb962f2edca05cad07a0760220cd24e62d99d33"
 
 [[files]]
 file = "global_packs/required_resources/Better Villagers.zip"
