@@ -514,7 +514,7 @@ hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/consolefilter-common.toml"
-hash = "799d6c05f5b2e0631597e3e98ec2155dcc1bb5ffb9066195613abf6cffb4da63"
+hash = "2b5b3cbb5124d548489ffa5034a5326ccb3ce6e1f34a32730970598d27169096"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"

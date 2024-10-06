@@ -1,7 +1,7 @@
 
 [general]
 	#Any console messages containing any of these strings will be hidden.
-	basicFilters = ['Redirecting', 'friendsandfoes', 'hostilewatermobs', 'midnightlurker', 'iceandfire', 'dread_citadel', 'aarokends_dungeons_and_monsters', 'alexsmobs']
+	basicFilters = ['Redirecting', 'friendsandfoes', 'hostilewatermobs', 'midnightlurker', 'iceandfire', 'dread_citadel', 'aarokends_dungeons_and_monsters', 'alexsmobs', 'Broke block']
 	#Any console messages that match any of these regular expressions will be hidden. Uses Java style regex. Backslashes must be escaped, for example use \\s instead of \s to match whitespace.
 	regexFilters = ['Tried to add entity [a-z_-]*:[a-z_-]* but it was marked as removed already']
 
