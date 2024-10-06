@@ -25,7 +25,7 @@ ServerEvents.recipes(event => {
     {
       L: 'minecraft:lapis_block',
       F: '#c:raw_fish',
-      G: 'minecraft:moblassos:golden_lasso'
+      G: 'moblassos:golden_lasso'
     }
   )
 
@@ -40,7 +40,7 @@ ServerEvents.recipes(event => {
     {
       D: 'minecraft:diamond_block',
       A: 'moblassos:aqua_lasso',
-      G: 'minecraft:moblassos:golden_lasso'
+      G: 'moblassos:golden_lasso'
     }
   )
 
@@ -54,7 +54,7 @@ ServerEvents.recipes(event => {
     ],
     {
       E: 'minecraft:emerald_block',
-      G: 'minecraft:moblassos:golden_lasso'
+      G: 'moblassos:golden_lasso'
     }
   )
 
@@ -69,7 +69,7 @@ ServerEvents.recipes(event => {
     {
       C: 'supplementaries:cage',
       B: 'minecraft:blaze_rod',
-      L: 'minecraft:moblassos:golden_lasso',
+      L: 'moblassos:golden_lasso',
       R: 'minecraft:rotten_flesh',
       S: 'minecraft:bone',
       G: 'quark:gunpowder_sack',

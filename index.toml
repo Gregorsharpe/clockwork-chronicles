@@ -1042,7 +1042,7 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
 file = "config/luckperms/luckperms.conf"
-hash = "e6012312d1426d03dfc08840180cb06c3dc120a09a8f2fb999477c8c74ba3650"
+hash = "e97f1b7b66508f0886d3f6f7cb60c0ad0f37f46667501be923e1bd843999e813"
 
 [[files]]
 file = "config/man_config.toml"
@@ -1333,6 +1333,10 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
+file = "global_packs/required_data/simplehats_dropchance.zip"
+hash = "930be2f47208e8361af124955526655414ce3435809fe5ff01798332af0a2bce"
+
+[[files]]
 file = "global_packs/required_resources/Better Villagers.zip"
 hash = "2cfb3c6b821a49e189da0e495640e2f86a1f3d6c86cee6781279a1f1fe55f25c"
 
@@ -1421,7 +1425,7 @@ hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
 
 [[files]]
 file = "kubejs/server_scripts/moblassos.js"
-hash = "699556335e2b5f9c3ea569a630ebe12eef736d913b422cc3fd0422ec32d6fe7c"
+hash = "0cf3ee3618382bba633659a0cfb2100a162eae8dd97afd389c25c0ad913ca55b"
 
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
