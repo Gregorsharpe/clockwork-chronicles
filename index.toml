@@ -657,6 +657,66 @@ file = "config/forge-client.toml"
 hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "9c788e5d2234e5f528eba96d8c7c16a52d87d96bcbf82c5a482613e472d0edfb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_1.snbt"
+hash = "6245260532ca193d0679cdc5fad8e902824278d1e0f54eb51603a5dd0b108b77"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_10.snbt"
+hash = "7a77eafb74b274f67820b772b0a24993eb9aae3a0290003be622385938089fff"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_2.snbt"
+hash = "2c7cb6fb79fdde391255732ee92f0400f8c1f7cfad0e04ef0d1b740c04e1c608"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_3.snbt"
+hash = "0ea5ce40d166f674300a8efcac271a3e94c50e347fef761dce5df3b48a371403"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_31.snbt"
+hash = "66312899a527057d794e0db3921f4427509a9466a5a3dcc5709bf47703c9448b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_4_2.snbt"
+hash = "228eed465fcccbf6cc995c8a978b2d9784e8e27754b5e13b3d531f911f6b8fe0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_5.snbt"
+hash = "405fec6d49ca3e5dde3464eea7b689ef5a15e1fdb74da34ebbe4cc6157270582"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_6.snbt"
+hash = "ff5f9b99b4e0901af224e4433b7a4832f38649b03d1b8576b4540461517b0f4f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_7.snbt"
+hash = "f9c3622313420e0eb69478f5372b84c871da5e3f5a5f8228e63981f95863bbdd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_8.snbt"
+hash = "34ba368f1cd3868d2eef4ce7bde5d4f4405176bdb4c14f969c44eb0a8034fc92"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chapter_8_2.snbt"
+hash = "70e9613951ebf6d0ba9f38033f9d28fee0120be7994ce011a136d7fd8f733e7a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/extra_information.snbt"
+hash = "13125e69e2159b904ac3b5fd3dfa5198369850814f0b38a5bd7447fa3322bba2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/thermal_expansion.snbt"
+hash = "2ed29ebf966f50eb7cd8c4c7919f51d755fdf7852e5d5a9a34f587af0f5a9c2f"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+
+[[files]]
 file = "config/ftbxmodcompat.snbt"
 hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
 
@@ -1985,7 +2045,7 @@ hash = "b8d9c2640fc8817456742170dd76e32208e4b2207a1440b1f486b00e80ad2aa7"
 
 [[files]]
 file = "kubejs/startup_scripts/mek_x_create.js"
-hash = "e41201fdd343943023c16d44d6c8e9f2de0fc2c6dad74e0f716408dbb6b01c24"
+hash = "d22860998cdc02a7bd7b49194b5530a0b89b17dfb65e4b6ccfca61b20dc7779d"
 
 [[files]]
 file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
