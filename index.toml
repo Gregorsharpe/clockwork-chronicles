@@ -1440,6 +1440,438 @@ hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
 metafile = true
 
 [[files]]
+file = "kubejs/assets/createaddition/textures/item/straw.png"
+hash = "0ef5584979cfb20723e924a1993608feceec3566f16808fa38d9dd9cd4b9458a"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/lang/en_us.json"
+hash = "d7c7134dce67410eca53cb5e1efff9fa126b454258f694ea64acf9cbfb695485"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/airship.png"
+hash = "94b70f55eab970d39926d58cf79fbb559a13586f6692e16a70d18cacd2bcfece"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/biplane.png"
+hash = "bada74da85d0f39e383030324ec2c900b09748647b24333cdea595bab686b9cb"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/bullet.png"
+hash = "fcda762f881ba486e3c5998fe232446493dc89721c1313a69eb498d463d00dc5"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/cargo_airship.png"
+hash = "860034d6a20d51657adaa67052becec58b6fd84a657b3f4818688b51e74ceab8"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/gyrodyne.png"
+hash = "713a68a64bb04fc855f916afa46073d6eb2d549d5f945f101b5f8ac70ac3a7ac"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/heavy_crossbow.png"
+hash = "8dda8c6789d6aca37c5a6ce7a9aa591c542d8d9756fcb9370c434a419a5b6145"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/quadrocopter.png"
+hash = "b06292a431ddf17103ffc8934dec21446280e60b4d33564b2f8f51a900baa045"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/rotary_cannon.png"
+hash = "ccec6a6456c3ae52ade258c63e6df9bd3bb5d1292a55a053052493a98be94ed3"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/entity/telescope.png"
+hash = "50abb58c9fae0ce87aa9e521fcfb874a7265b2444863f93f697e0b737f80dc23"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/gui/container/inventory.png"
+hash = "3c1178b00657e70dedf2120deffe8662eab29f314178b58e51cc9b4e567cfae5"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/gui/icons.png"
+hash = "14d9cff3e1d52bbb7d791e74f775f6ddadd2162ea9d9dae25b008ee53f99e223"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/airship.png"
+hash = "18d339274fdce24b27e1402df67864b3020b03055680ee1ef558ae71985c3616"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/biplane.png"
+hash = "a9cf8780266cb7b50296eb1df6a98d7e9af8bfbc37bfffc7a50416772b4916f7"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/boiler.png"
+hash = "6ec8944466d7b8b69fa01df2e72274a55dba687192667fecf21cb9cf1991f3b9"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/bomb_bay.png"
+hash = "b6861223faac1642a81c25a957942ed5267f772682eb23d7e63be2104c8e3b2b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/cargo_airship.png"
+hash = "bc5841cac4ace1817c51711a75f37f65f510dea57cde5b1ec0b39ca09a2e1770"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/eco_engine.png"
+hash = "323dd424479a0b525ed66ee14c60d1f50634dd8cd3ac9b1dd12312e376658d3b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/engine.png"
+hash = "60c844e660ec2d08fb0faf2f231aee7cd949da63e68ce58ffd5780b778410245"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/enhanced_propeller.png"
+hash = "ea0c595e8db2a50421312f26a7c26416004714f6b7215af7553135f5ef06940b"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/gyrodyne.png"
+hash = "2eba188490c7357b4e491ef91aa1b996e90536e284c7cd81e76f310d9ad588ae"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/gyroscope.png"
+hash = "7cfc44dc1e286dbf5883763aea1d068f78ecdf4c709816f683e5e4cf05908985"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/heavy_crossbow.png"
+hash = "47a6cc03a548990bcc4f182dcd00f64a416cef5393ea4011984a1fc638690e19"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/hull.png"
+hash = "b5671fbfe8ac02345a7891f09f5edb931a0524b91f512099d36675d2de2bc846"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/hull_reinforcement.png"
+hash = "8a71302d3792f217fa02b99bab7a0bedf5609ab33b53780ec68165a161498693"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/improved_landing_gear.png"
+hash = "7ebdd7329ec0b45fa3f055302a405289b8d98f84a2e29b82a6f40269c3db6c41"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/industrial_gears.png"
+hash = "924e188e82bd2a7fa4ed90afb5fd3ed55ab92cd1bad7dbbcd20b863b63e4f47c"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/nether_engine.png"
+hash = "71a3adc736bed3800558ad5c65c0e3d94ac217102a74258f99fe4514e67707a3"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/propeller.png"
+hash = "f18fc74417ffc3d49423a01c7c2a45beea321f5ccca4cc0dc8bc20bb6ec2f051"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/quadrocopter.png"
+hash = "cc96343aea4d5ad066f2bbf2cb113cba0be0e21c90757d000e9b527a2f57f596"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/rotary_cannon.png"
+hash = "06b64f123e12400e49e07e50020af7f2300a9d8cd655402c63746e0dd0a7d503"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/sail.png"
+hash = "3d71ab1d8f27ad6ce5ab1363dbba0876cd61e80b4250dbd8772349aa4d938bea"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/steel_boiler.png"
+hash = "5160df8f52b6d9f03d30f8d9b04a1235b70453e9ee77b361958816d2ffb9a25d"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/sturdy_pipes.png"
+hash = "5012c2cba91837d9b2e12d8a7b4c3322b6573cbd3467bd6e6f7c0c4d06b6dabf"
+
+[[files]]
+file = "kubejs/assets/immersive_aircraft/textures/item/telescope.png"
+hash = "85be9245b96617a50bb1178a24082eaddfb0113b398e5adc547e4629b49a4a6e"
+
+[[files]]
+file = "kubejs/assets/kubejs/lang/translation_guide.txt"
+hash = "8146a4df7bd1a8fb8ef5a78f41f44bef3ab7e164a203799fce07c9f6efd9445c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ground_sifter_bottom.png"
+hash = "cdaf9250fde8b6bb2f677cf5fef9b6bed552827cf00d7c4d6eb278b21dd50597"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ground_sifter_side.png"
+hash = "ff33d7561ae76d907361b84be832d4a141cbd1c28cf16771a6f90a188a7aa295"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ground_sifter_top.png"
+hash = "8dc32af0c3991a5adcbdc1d719a57278aacdad4ade5c543d2a266880b456a67d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/microgravity_centrifuge_bottom.png"
+hash = "ff33d7561ae76d907361b84be832d4a141cbd1c28cf16771a6f90a188a7aa295"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/microgravity_centrifuge_side.png"
+hash = "8f612c933110d95580df54f4ffae4511944552b2039aabdabf1393fed24e72f7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/microgravity_centrifuge_top.png"
+hash = "04ec30d1fbed1ac8d797ebc1af6eca352ec1234b162049c2d8a8ac7ea3b7503b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/stellarite_block.png"
+hash = "8585cc9afc1305c8c1a3479b92708b2b977c45cf7f1d1fc328ce165a77254533"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/stellarite_ore.png"
+hash = "45ad317da2211d21a06f217576dd44275e498124fb96c01b85515b79add2f36e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/assembly_kit.png"
+hash = "dd1acd07b01db23d16dba852b1f255f3d3c156ff459bda15b050d89455d0e3e2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_mechanism.png"
+hash = "eb58339a000f3cede4ed04205807dd00c2be0ede9962e4b463f52d5fd72efc5e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/golden_hand.png"
+hash = "c2809ba001cf38c3eec6eb12c467978716a3eec7f85b24029bb117caa738666c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/guidance_mechanism.png"
+hash = "f36d27ea1039f2945124a32597e6e85ae4ca0a152883b9a0cf984cb08e62e691"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/high_grade_sand.png"
+hash = "858ef42e36fdfa5277bcbef5f2db6ee621a52ee6268bb8ee1ad0695f48737383"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_basic_control_circuit.png"
+hash = "278cfd39f540d4d945cb3f2462d792eeaaae6e5fcb9b9358ebdde4d901b69f1e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_basic_mechanism.png"
+hash = "ab02f971538350bbdec6ce6df3ae31647a00790a648ceb86bab84ed6e1f21e06"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_calorite_engine.png"
+hash = "32a472aa32e996f37f2f3f4ce33a2994583b8b6dc8274f2ac70b23aa9a667068"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_desh_engine.png"
+hash = "66c184803ce85f90f5db84fdf8cfa445a4e42f12c201562667dd0ce6d718cbbb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_guidance_mechanism.png"
+hash = "105fe5de46a02f06202892fae4f37d5ec83d4910516c991a86f6fdbd07bc7bac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_logic_mechanism.png"
+hash = "4f387b72e1df05490935e0cce4541227caa6027394bfab7070edf3b53d3713bf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_logic_mechanism_revised.png"
+hash = "5ef0ed5d36701c9a3181babc0c5274acb6d717802b034b650711d5fe3960e44b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_ostrum_engine.png"
+hash = "407088201c56b19bdd2d5bd815df41384d5931993ceda0e9ad865025037e538c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_processor.png"
+hash = "b14146de50fcef97578df31f58bbb38cc4e55b07436027d4ca45928731671e2e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_rocket_nose_cone.png"
+hash = "4a201f86654b85689d767b0b6e18702efd9248d37596f702fcaa9835ff1857e3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_steel_engine.png"
+hash = "0b2d5837eff7b2686671f1150e40b6d92c7c7e4340f14624cf8dd3d5661f9b4b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/logic_mechanism.png"
+hash = "d6f5691911378d657509939b2961d3fc46032f1a0e67dba559797f1a4c884827"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/logic_mechanism_revised.png"
+hash = "6e3acb1746532992d80ef95bdc9cf1c2270425af0c533bf9768693199d748c32"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lunar_crystal.png"
+hash = "5328e4207eaee0d4e8c44ab3ef8250905d3c35af1145f9a14f910a765d1274d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mercury_stone_dust.png"
+hash = "b46a64e03ff5437429ad6fdac036635c3d89f65791a98d36c14bff4421fd49f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/processor.png"
+hash = "3cd6f4227795e8aadeca0c847466bdc3a15c83b559b86a19891ad15d97844d41"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rare_metal_dust.png"
+hash = "f80721b5cd02a7ee063d4229c30b2ec6fec768e3a980e83f5504946ee997a181"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/refined_stellarite.png"
+hash = "8f3fae0503bf3065a9449707ed03178f2dc25374cc3dee97b9240d315ad627c8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/reinforced_thermal_tile.png"
+hash = "d2e895fbaad8c3010aed8988f6d7ea961b889e7e7b0278ec8c5603015b44dcfc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rusted_iron.png"
+hash = "01206d0ffd1807590aef08608db0dfa8ee4d083dc1a23c4884c77920931514b0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silica_cluster.png"
+hash = "25767fd41da13711a363a6ed996f4f0e40105b1464318317544b0aa3a20bc8ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/stellarite_cluster.png"
+hash = "6eae923bd70bb3f909e16693c45b7c2e31985c14483c5e27dcc74769b03d9b2a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/supercompressed_helium.png"
+hash = "7ab50e3c420a66fcf98242b1953057a3fb76e28d4effc7de8ed3c3cf1fe28b5a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t1_plating.png"
+hash = "08aa144dee7059810e5a8e910782246f9aa4dae627167d2b64918b7b81eced27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t2_plating.png"
+hash = "9d9ee0745bedf4a77003c7f76289872d482043caf7718378905122cd972d60f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t3_plating.png"
+hash = "f83e52f790d9e4a0c8da641a90bde8878bc2036e7c86c0ea38f7a521089b62e1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/t4_plating.png"
+hash = "70e8f719e8f1187aa8b4e23ad584c7a4c61ab6c094aea0d56f0fedd68a46da79"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/thermal_tile.png"
+hash = "f9d41755a5d51052e176fc4b82ee291ea41f5c83751af3c0d627a2a91bfc2f14"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_logistical_transporter.png"
+hash = "ea945480c824437da84ef11b74d49ee1762cb983b15a2ec0c4658ca2d02b7594"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_logistical_transporter_vertical.png"
+hash = "a1197cbdee19947b763c4066830c3d33f270dc85b8862b65b68f8eebf421cbd0"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_mechanical_pipe.png"
+hash = "9ef7121f8483e6e64b957e01a3fac30810dfeacceb4b559dd3d8fbbc0ea234f3"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/advanced_mechanical_pipe_vertical.png"
+hash = "f9a3ceb8d50d19c39b2d3cb23e7e420650de5f64d78d97b2407928cb8800ffed"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_logistical_transporter.png"
+hash = "0ad66e2272a270fde8d9d69d3c526a7505d4792d5c8f88b7ea088e1949c31ec2"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_logistical_transporter_vertical.png"
+hash = "5937306681bd925622a9d4d8d31f8c44f605134a4674c7774ef2ba97e867ee59"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_mechanical_pipe.png"
+hash = "7cd80b463856a02a558e2c50f2203b6083312918af8955554be5dd3d5f28d36c"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/basic_mechanical_pipe_vertical.png"
+hash = "3cb5a5faaf070757c4f01a0ca650324a7bf1616bc02b929eed8c63fac482b4a1"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/diversion_transporter.png"
+hash = "ea5b4450bf4a992e52842d583ae4b847b551c433c1af7aef517301190773d4eb"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/diversion_transporter_vertical.png"
+hash = "cebf2806f8c48fdb5e0066d67d406c0e7e2896342e4991eb0709b54f739efa5c"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_logistical_transporter.png"
+hash = "099c4c0f9b1a8476bf3514508d0d6ce8a5b3281b008a30a69dc228ca9cb2723c"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_logistical_transporter_vertical.png"
+hash = "416250012dae04765b037fd2a4e5e27427b6aca2c9130b815f5542b25513bd3f"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_mechanical_pipe.png"
+hash = "129e9cc9bcba54af7b9c5244ea4840b81b97445b547346815c3c83b98f5caedb"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/elite_mechanical_pipe_vertical.png"
+hash = "b3fcc4a5007a7286d6d1bf5c56f00d43e2ac984db372dcca6853690e02555f5d"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/logistical_transporter_glass_colored.png"
+hash = "59ee9469e09d6d4131852f08cd6503280f31cc9502fae67328b5d43f6ceace15"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/logistical_transporter_vertical_glass_colored.png"
+hash = "a95480c272c39ba2429bfed38aae481e00c367fd6c587b692ddedd7858258a36"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/restrictive_transporter.png"
+hash = "98876406ed9267cc12922945074a64a11f81d7893b22da61502dbd890f568c6a"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/restrictive_transporter_vertical.png"
+hash = "f502dd05465b5276474d4d522b80b10b724d87ea7cbd33ffc2c4088f34d17d12"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_logistical_transporter.png"
+hash = "877dd26f1a2406bc082d3ddc6862733481f47d9c29bb01a1b080af5932acb07f"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_logistical_transporter_vertical.png"
+hash = "260370043380c645fdad64fc126ce0646a79a69b5c81fe02062a1d13674a3207"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_mechanical_pipe.png"
+hash = "316f1b331946f90e6f077a2f6d035495f7ab7bb30eeb18645cdffd2fd1b4dcb9"
+
+[[files]]
+file = "kubejs/assets/mekanism/textures/block/models/multipart/ultimate_mechanical_pipe_vertical.png"
+hash = "39d50ddc26c61a29e3ff536d1872189b717d9397d8031d9ae2a05a87ad8ded66"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "6ec90f3a2e792c7ea17d3fe146d6e3f7e5d854e5fb6b6f4718fb4196f958dfad"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "fc868551c444cbde9109880b27cad0425f7626e6abd49f52d412c3f68abc85e6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "3de64f5a540d16aa9c79eb97551de6e1cb011dddf9bb727bb98ab1f47fc866f5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "8c9784593513e6a31cd63b3322c613c868777fd7b24f8edc6ed3e723337f801f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "98225db2fb9fb707a32f61d52acc9fcf0439fd0990e214b66860fccd2c1b1c7e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "701ad71e0284383893a0b328a6621b14aba6c5e1b1147a52ddb384f8e49f7b73"
+
+[[files]]
 file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
@@ -1456,6 +1888,46 @@ file = "kubejs/client_scripts/hide/wither_skele_tweaks.js"
 hash = "20a9fa4b21fbc2684cb19f7a6ccd63fb2c8767d61c8852dd1cfc94090f7c4e45"
 
 [[files]]
+file = "kubejs/client_scripts/mek_x_create.js"
+hash = "38318fed9d93035917eadbd530ede6488fb4948c1db40e7e3d34332f5bdd93f9"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "b1d88d89cb48929e3f1d1d862e763e9f28196d3ea071184f401afa19906b6285"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "3db4ffc3abb1dabd1075e42ec4ea8ba6d347b332775324ae55ca73ff36a80009"
+
+[[files]]
+file = "kubejs/data/create_sa/recipes/heat_engine_recipe.json"
+hash = "556ecacc6f86a173931c398fdab4346bd775798ea17a46488f5885bbfdf98fc7"
+
+[[files]]
+file = "kubejs/data/create_sa/recipes/hydraulic_engine_recipe.json"
+hash = "5ed8c75d663f7055f30796163bdf98180e2ec4eed8294af6d446ea9d129d2aec"
+
+[[files]]
+file = "kubejs/data/create_sa/recipes/magma_cream_recipe.json"
+hash = "0a4ab7ba1caf7af0eed834bd5cc7f8aa2df9640cb2182d6b510a8edf0e4e39c7"
+
+[[files]]
+file = "kubejs/data/create_sa/recipes/sponge_pressing.json"
+hash = "2d02ac0e176ec7528467f4828171c84272e2bd5050b6283e4211a3f1c621cd79"
+
+[[files]]
+file = "kubejs/data/create_sa/recipes/steam_engine_recipe.json"
+hash = "d02f3df16010d11444727b7f144f7eed126ff006f97d7bdd3c30e360bd845661"
+
+[[files]]
+file = "kubejs/data/custom_machines/machines/ground_sifter.json"
+hash = "9f60cf0b8cf2e075e100da802072eb247684968962234b084b45f86d8e757394"
+
+[[files]]
+file = "kubejs/data/custom_machines/machines/microgravity_centrifuge.json"
+hash = "113c1aa2501c00223022cd8059be894b83533f1aa0bf51d19e4b99309a1196d6"
+
+[[files]]
 file = "kubejs/server_scripts/beer_mod.js"
 hash = "9e6b5c7c6fb28626ea9a89e12919b08e44c63698c3ccad1432424ef280265e6e"
 
@@ -1470,6 +1942,26 @@ hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 [[files]]
 file = "kubejs/server_scripts/hexerei.js"
 hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
+
+[[files]]
+file = "kubejs/server_scripts/mek_x_create/added_recipes.js"
+hash = "ad5728d4de63e0c975037c05f36f1698d1b125f9bb91bf8f8df9b1c97455fc5d"
+
+[[files]]
+file = "kubejs/server_scripts/mek_x_create/removed_recipes.js"
+hash = "568818846e086ec4683e67aedcf730dfeaf9525cf785edaace901c2011ab77be"
+
+[[files]]
+file = "kubejs/server_scripts/mek_x_create/scripts.js"
+hash = "cf91815194431259838e0602224f4952ad5198e6546c397edadcc19c905f6993"
+
+[[files]]
+file = "kubejs/server_scripts/mek_x_create/sequenced_assemblies.js"
+hash = "b1d957448c2428c2f35160e13bed7c9be89e1733406c0d7be3f11034d2ed5b90"
+
+[[files]]
+file = "kubejs/server_scripts/mek_x_create/tags.js"
+hash = "cc49fa53112b680192638fce7c4495eb9f5b8b47a566e3c173f7aa64336594d4"
 
 [[files]]
 file = "kubejs/server_scripts/moblassos.js"
@@ -1492,6 +1984,10 @@ file = "kubejs/server_scripts/remove/wither_skele_tweaks.js"
 hash = "b8d9c2640fc8817456742170dd76e32208e4b2207a1440b1f486b00e80ad2aa7"
 
 [[files]]
+file = "kubejs/startup_scripts/mek_x_create.js"
+hash = "e41201fdd343943023c16d44d6c8e9f2de0fc2c6dad74e0f716408dbb6b01c24"
+
+[[files]]
 file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
 hash = "f2d880b56586ef64f8acc00513365b2ed8bc3976987b93f6aa7c4b2a4eb78882"
 
@@ -1510,6 +2006,11 @@ hash = "00271aa564619cf2814a657cd37b01ed8d50b0e72797b02fc6d4b119ca8e6848"
 [[files]]
 file = "mods/Structory_1.20.x_v1.3.5.jar"
 hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
+
+[[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "69c3643a5f7ebfe16b49b603eb8a7005aea4b2b0ae63f57993ed802417f59fd7"
+metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -1871,6 +2372,11 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
 metafile = true
@@ -2011,6 +2517,11 @@ hash = "8f8754eda6beb02d73da14294026af5fcc2c849fd07ae3b210136492e7fde95b"
 metafile = true
 
 [[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
@@ -2048,6 +2559,11 @@ metafile = true
 [[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "bbc43924cbbcf3e61d844386ee6e37a4910adde3968cee47cdb6529d7a0b256f"
+metafile = true
+
+[[files]]
+file = "mods/custommachinery-fork.pw.toml"
+hash = "3cbd151f2f18195a03f83e41d86838a747b64b93c3e1faffde545560735e80fb"
 metafile = true
 
 [[files]]
@@ -2390,6 +2906,11 @@ hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "e0607c5e42eb3e9e9f535e4a71392261f3a9ee4f6f84850d5490ff48f82f1ca8"
+metafile = true
+
+[[files]]
 file = "mods/gravitational-modulating-additional-unit.pw.toml"
 hash = "d6272fe2dbacb95bd5e20af6cdb1b5bff93256dc2ac5428e08f57ba0cff8d371"
 metafile = true
@@ -2644,6 +3165,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-powah.pw.toml"
 hash = "bb7517dcbfe61d2597c6207de46d5ad27434b9ec34d9e12215a04aace54b1432"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "be2fd618cc61b8eee5ab16c03b4780809da0f3de76bf5224a463cfffeebd6385"
 metafile = true
 
 [[files]]
@@ -3335,6 +3861,26 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "626f0ea226f55c453930ef387b32ad090c8defdd07792fe0aefc4b5afa87cb46"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "d0d2d356f1a5015e354516ed99549815b3dac67307c1374cf5b87e2333afaa62"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
 metafile = true
 
 [[files]]
