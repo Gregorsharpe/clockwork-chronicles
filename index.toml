@@ -1226,7 +1226,7 @@ hash = "c5de1bffb3509eb35cc0de7ccf6d2adbf83635e6d40f349cc97d2eb1c6bea8c6"
 
 [[files]]
 file = "config/starterkit/kits/spawn_kit.txt"
-hash = "e420eea50ebbf30c7e38b183e58fe4857aebfa89d3a02afec6082a63d2532046"
+hash = "33bc9ae2e1bb9b4f82cba4239120e77df80bdc7c057e3541dd0cc17c28c570e6"
 
 [[files]]
 file = "config/supplementaries-client.toml"
