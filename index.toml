@@ -1500,6 +1500,10 @@ hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
 metafile = true
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
 file = "kubejs/assets/createaddition/textures/item/straw.png"
 hash = "0ef5584979cfb20723e924a1993608feceec3566f16808fa38d9dd9cd4b9458a"
 
@@ -1813,11 +1817,11 @@ hash = "a1b9e5fad4e2dc8f1bbb2bcd44abad0c38a2fdbb86d821948b911c28c67362a2"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "b1d88d89cb48929e3f1d1d862e763e9f28196d3ea071184f401afa19906b6285"
+hash = "1c0191fceaadfe12be6becd36d64e03bffce7e090f0b867962f711e9c6ce972d"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "3db4ffc3abb1dabd1075e42ec4ea8ba6d347b332775324ae55ca73ff36a80009"
+hash = "66c6f071202a261a8ffa0978ca4c0168e17b572d0c411b5c7e4d9a66567b7f79"
 
 [[files]]
 file = "kubejs/data/create_sa/recipes/heat_engine_recipe.json"
@@ -1865,7 +1869,7 @@ hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/added_recipes.js"
-hash = "b4a9f94006bfd980ff7ba310c71123a6d6b407f7dc13d4df95749884f85a1016"
+hash = "809a611b0602905a6c640d0ffa12d46cbce24cea54b7dcf3d4b6b6ad386cb160"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/removed_recipes.js"
@@ -1905,7 +1909,7 @@ hash = "b8d9c2640fc8817456742170dd76e32208e4b2207a1440b1f486b00e80ad2aa7"
 
 [[files]]
 file = "kubejs/startup_scripts/mek_x_create.js"
-hash = "877da57b819d4bb2572e738104e3637d11dc0ac62e8295143b7c1dc25e2e92a5"
+hash = "e73fffde766f138a3f2494847f81a1ff621630d976a4889911f89aed92b75212"
 
 [[files]]
 file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
