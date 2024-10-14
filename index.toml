@@ -1504,146 +1504,6 @@ file = "kubejs/assets/createaddition/textures/item/straw.png"
 hash = "0ef5584979cfb20723e924a1993608feceec3566f16808fa38d9dd9cd4b9458a"
 
 [[files]]
-file = "kubejs/assets/immersive_aircraft/lang/en_us.json"
-hash = "d7c7134dce67410eca53cb5e1efff9fa126b454258f694ea64acf9cbfb695485"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/airship.png"
-hash = "94b70f55eab970d39926d58cf79fbb559a13586f6692e16a70d18cacd2bcfece"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/biplane.png"
-hash = "bada74da85d0f39e383030324ec2c900b09748647b24333cdea595bab686b9cb"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/bullet.png"
-hash = "fcda762f881ba486e3c5998fe232446493dc89721c1313a69eb498d463d00dc5"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/cargo_airship.png"
-hash = "860034d6a20d51657adaa67052becec58b6fd84a657b3f4818688b51e74ceab8"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/gyrodyne.png"
-hash = "713a68a64bb04fc855f916afa46073d6eb2d549d5f945f101b5f8ac70ac3a7ac"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/heavy_crossbow.png"
-hash = "8dda8c6789d6aca37c5a6ce7a9aa591c542d8d9756fcb9370c434a419a5b6145"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/quadrocopter.png"
-hash = "b06292a431ddf17103ffc8934dec21446280e60b4d33564b2f8f51a900baa045"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/rotary_cannon.png"
-hash = "ccec6a6456c3ae52ade258c63e6df9bd3bb5d1292a55a053052493a98be94ed3"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/entity/telescope.png"
-hash = "50abb58c9fae0ce87aa9e521fcfb874a7265b2444863f93f697e0b737f80dc23"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/gui/container/inventory.png"
-hash = "3c1178b00657e70dedf2120deffe8662eab29f314178b58e51cc9b4e567cfae5"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/gui/icons.png"
-hash = "14d9cff3e1d52bbb7d791e74f775f6ddadd2162ea9d9dae25b008ee53f99e223"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/airship.png"
-hash = "18d339274fdce24b27e1402df67864b3020b03055680ee1ef558ae71985c3616"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/biplane.png"
-hash = "a9cf8780266cb7b50296eb1df6a98d7e9af8bfbc37bfffc7a50416772b4916f7"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/boiler.png"
-hash = "6ec8944466d7b8b69fa01df2e72274a55dba687192667fecf21cb9cf1991f3b9"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/bomb_bay.png"
-hash = "b6861223faac1642a81c25a957942ed5267f772682eb23d7e63be2104c8e3b2b"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/cargo_airship.png"
-hash = "bc5841cac4ace1817c51711a75f37f65f510dea57cde5b1ec0b39ca09a2e1770"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/eco_engine.png"
-hash = "323dd424479a0b525ed66ee14c60d1f50634dd8cd3ac9b1dd12312e376658d3b"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/engine.png"
-hash = "60c844e660ec2d08fb0faf2f231aee7cd949da63e68ce58ffd5780b778410245"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/enhanced_propeller.png"
-hash = "ea0c595e8db2a50421312f26a7c26416004714f6b7215af7553135f5ef06940b"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/gyrodyne.png"
-hash = "2eba188490c7357b4e491ef91aa1b996e90536e284c7cd81e76f310d9ad588ae"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/gyroscope.png"
-hash = "7cfc44dc1e286dbf5883763aea1d068f78ecdf4c709816f683e5e4cf05908985"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/heavy_crossbow.png"
-hash = "47a6cc03a548990bcc4f182dcd00f64a416cef5393ea4011984a1fc638690e19"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/hull.png"
-hash = "b5671fbfe8ac02345a7891f09f5edb931a0524b91f512099d36675d2de2bc846"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/hull_reinforcement.png"
-hash = "8a71302d3792f217fa02b99bab7a0bedf5609ab33b53780ec68165a161498693"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/improved_landing_gear.png"
-hash = "7ebdd7329ec0b45fa3f055302a405289b8d98f84a2e29b82a6f40269c3db6c41"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/industrial_gears.png"
-hash = "924e188e82bd2a7fa4ed90afb5fd3ed55ab92cd1bad7dbbcd20b863b63e4f47c"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/nether_engine.png"
-hash = "71a3adc736bed3800558ad5c65c0e3d94ac217102a74258f99fe4514e67707a3"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/propeller.png"
-hash = "f18fc74417ffc3d49423a01c7c2a45beea321f5ccca4cc0dc8bc20bb6ec2f051"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/quadrocopter.png"
-hash = "cc96343aea4d5ad066f2bbf2cb113cba0be0e21c90757d000e9b527a2f57f596"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/rotary_cannon.png"
-hash = "06b64f123e12400e49e07e50020af7f2300a9d8cd655402c63746e0dd0a7d503"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/sail.png"
-hash = "3d71ab1d8f27ad6ce5ab1363dbba0876cd61e80b4250dbd8772349aa4d938bea"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/steel_boiler.png"
-hash = "5160df8f52b6d9f03d30f8d9b04a1235b70453e9ee77b361958816d2ffb9a25d"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/sturdy_pipes.png"
-hash = "5012c2cba91837d9b2e12d8a7b4c3322b6573cbd3467bd6e6f7c0c4d06b6dabf"
-
-[[files]]
-file = "kubejs/assets/immersive_aircraft/textures/item/telescope.png"
-hash = "85be9245b96617a50bb1178a24082eaddfb0113b398e5adc547e4629b49a4a6e"
-
-[[files]]
 file = "kubejs/assets/kubejs/lang/translation_guide.txt"
 hash = "8146a4df7bd1a8fb8ef5a78f41f44bef3ab7e164a203799fce07c9f6efd9445c"
 
@@ -1949,7 +1809,7 @@ hash = "20a9fa4b21fbc2684cb19f7a6ccd63fb2c8767d61c8852dd1cfc94090f7c4e45"
 
 [[files]]
 file = "kubejs/client_scripts/mek_x_create.js"
-hash = "38318fed9d93035917eadbd530ede6488fb4948c1db40e7e3d34332f5bdd93f9"
+hash = "a1b9e5fad4e2dc8f1bbb2bcd44abad0c38a2fdbb86d821948b911c28c67362a2"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2017,7 +1877,7 @@ hash = "cf91815194431259838e0602224f4952ad5198e6546c397edadcc19c905f6993"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/sequenced_assemblies.js"
-hash = "b1d957448c2428c2f35160e13bed7c9be89e1733406c0d7be3f11034d2ed5b90"
+hash = "7c6110515172d134c882423f404f5ac39e7019d3e689b33b835a8debfc5590c8"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/tags.js"
