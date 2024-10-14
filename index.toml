@@ -1877,7 +1877,7 @@ hash = "cf91815194431259838e0602224f4952ad5198e6546c397edadcc19c905f6993"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/sequenced_assemblies.js"
-hash = "7c6110515172d134c882423f404f5ac39e7019d3e689b33b835a8debfc5590c8"
+hash = "b1d957448c2428c2f35160e13bed7c9be89e1733406c0d7be3f11034d2ed5b90"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/tags.js"
@@ -1905,7 +1905,7 @@ hash = "b8d9c2640fc8817456742170dd76e32208e4b2207a1440b1f486b00e80ad2aa7"
 
 [[files]]
 file = "kubejs/startup_scripts/mek_x_create.js"
-hash = "d22860998cdc02a7bd7b49194b5530a0b89b17dfb65e4b6ccfca61b20dc7779d"
+hash = "aecb11ed48c4d9c3c02d03dd9a8b2fe5e358fef4aa86d54955254b27692c76ab"
 
 [[files]]
 file = "mods/Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"

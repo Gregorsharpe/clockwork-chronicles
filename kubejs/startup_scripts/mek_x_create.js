@@ -37,9 +37,9 @@ StartupEvents.registry('item', event => {
 
 })
 StartupEvents.registry('block', event => {
-	event.create('stellarite_ore').material('stone').hardness(30.0).displayName('Stellarite Ore')
-	event.create('stellarite_block').material('stone').hardness(30.0).displayName('Block of Stellarite')
-	event.create('ground_sifter_side').material('stone').hardness(2.5).displayName('Ground Sifter Dummy')
+	event.create('stellarite_ore').mapColor(11).soundType(stoneSoundType()).hardness(30.0).displayName('Stellarite Ore')
+	event.create('stellarite_block').mapColor(11).soundType(stoneSoundType()).hardness(30.0).displayName('Block of Stellarite')
+	event.create('ground_sifter_side').mapColor(6).soundType(stoneSoundType()).hardness(2.5).displayName('Ground Sifter Dummy')
 	.texture('up', 'kubejs:block/ground_sifter_top')
 	.texture('down', 'kubejs:block/ground_sifter_bottom')
 	.texture('north', 'kubejs:block/ground_sifter_side')
@@ -47,7 +47,7 @@ StartupEvents.registry('block', event => {
 	.texture('east', 'kubejs:block/ground_sifter_side')
 	.texture('west', 'kubejs:block/ground_sifter_side')
 
-	event.create('microgravity_centrifuge_side').material('stone').hardness(2.5).displayName('Microgravity Centrifuge Dummy')
+	event.create('microgravity_centrifuge_side').mapColor(6).soundType(stoneSoundType()).hardness(2.5).displayName('Microgravity Centrifuge Dummy')
 	.texture('up', 'kubejs:block/microgravity_centrifuge_top')
 	.texture('down', 'kubejs:block/microgravity_centrifuge_bottom')
 	.texture('north', 'kubejs:block/microgravity_centrifuge_side')
