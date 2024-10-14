@@ -2005,11 +2005,11 @@ hash = "66c9f709dadb4695c593d7bfdb4636fae72d1d1e24b9b1257d45122dc9c53a7e"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/added_recipes.js"
-hash = "ad5728d4de63e0c975037c05f36f1698d1b125f9bb91bf8f8df9b1c97455fc5d"
+hash = "b4a9f94006bfd980ff7ba310c71123a6d6b407f7dc13d4df95749884f85a1016"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/removed_recipes.js"
-hash = "568818846e086ec4683e67aedcf730dfeaf9525cf785edaace901c2011ab77be"
+hash = "a1e5d21c12e8b6519972c4870d9b31eda1e5424bc278dd3377ad5a7940cd99b0"
 
 [[files]]
 file = "kubejs/server_scripts/mek_x_create/scripts.js"

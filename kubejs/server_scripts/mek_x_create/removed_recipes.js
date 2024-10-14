@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
+  event.remove({ id: 'create:crafting/kinetics/empty_blaze_burner' })
 	event.remove({ id: 'createaddition:rolling/straw' })
 	event.remove({ id: 'ad_astra:recipes/tier_1_rover' })
 	event.remove({ id: 'ad_astra:recipes/wheel' })

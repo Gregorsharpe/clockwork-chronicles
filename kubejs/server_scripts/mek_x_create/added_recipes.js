@@ -157,19 +157,6 @@ ServerEvents.recipes(event => {
 			}
 		  )
 		  event.shaped(
-			Item.of('enchantinginfuser:advanced_enchanting_infuser', 1),
-			[ 
-			  ' B ', 
-			  'NCN',
-			  'CCC'  
-			],
-			{
-			  B: 'minecraft:book',
-			  N: 'minecraft:netherite_ingot',
-			  C: 'minecraft:crying_obsidian'
-			}
-		  )
-		  event.shaped(
 			Item.of('mekanism:atomic_disassembler', 1),
 			[ 
 			  'RER', 
@@ -994,19 +981,6 @@ ServerEvents.recipes(event => {
 		O: 'mekanism:ingot_osmium',
 		F: 'minecraft:furnace',
 		C: 'minecraft:copper_ingot'
-		}
-	  )
-	  event.shaped(
-		Item.of('tesseract:tesseract'),
-		[ 
-		  'DED', 
-		  'ECE',
-		  'DED'  
-		],
-		{
-		D: 'create:shadow_steel',
-		E: 'ad_astra:ostrum_ingot',
-		C: 'fluxnetworks:flux_core'
 		}
 	  )
 	  event.shaped(
