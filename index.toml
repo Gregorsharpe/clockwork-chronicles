@@ -1444,6 +1444,10 @@ file = "kubejs/client_scripts/hide/ae2_facade.js"
 hash = "894055c45a0469b7526df0638e90cb48fed2e17d8f0c83ecaf35dc7d93e09c1e"
 
 [[files]]
+file = "kubejs/client_scripts/hide/apotheosis.js"
+hash = "71a69ec5a599282ee2411038e3b06dfc6bb8b9866b15d3b5115651f14e118e90"
+
+[[files]]
 file = "kubejs/client_scripts/hide/industrial_foregoing.js"
 hash = "5350ae4bf69cf4df915e68cc4dc741c25707b404ecfd19bf26995c945d5ec770"
 
@@ -1478,6 +1482,10 @@ hash = "0cf3ee3618382bba633659a0cfb2100a162eae8dd97afd389c25c0ad913ca55b"
 [[files]]
 file = "kubejs/server_scripts/origin_orb.js"
 hash = "671a22046f97a952571cf6731ba0bd4584d48ed703db872fc8e445279ca6df9f"
+
+[[files]]
+file = "kubejs/server_scripts/remove/apotheosis.js"
+hash = "7deae5019672cef63a3f877c70015700b009720151ba84f93cfe931c22824821"
 
 [[files]]
 file = "kubejs/server_scripts/remove/industrial_foregoing.js"
