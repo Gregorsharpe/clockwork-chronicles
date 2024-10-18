@@ -514,7 +514,7 @@ hash = "15de6d09567ab4c8194a1b0b344343ac0e5c9d9e4a72592696dafd0ff6b64587"
 
 [[files]]
 file = "config/consolefilter-common.toml"
-hash = "2b5b3cbb5124d548489ffa5034a5326ccb3ce6e1f34a32730970598d27169096"
+hash = "81943c80ffa2ec80f326cfdeb182f7730d3277cfb8b912990b21ab6c046b08ed"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"
@@ -3286,9 +3286,8 @@ hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
-metafile = true
+file = "mods/starlight-1.1.2+forge.jar"
+hash = "6f62c744571ce3a2d90973c965f2d94ed3ec0f6bc471691cbe393324bcc05922"
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
