@@ -3286,7 +3286,7 @@ hash = "5188902bc719b959283aca7b087192b6694b77bcefa2c46d40f907010ff6fc29"
 metafile = true
 
 [[files]]
-file = "mods/starlight-1.1.2+forge.jar"
+file = "mods/starlight_tyhack-1.1.2+forge.jar"
 hash = "6f62c744571ce3a2d90973c965f2d94ed3ec0f6bc471691cbe393324bcc05922"
 
 [[files]]
