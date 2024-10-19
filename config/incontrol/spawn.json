@@ -5,12 +5,29 @@
   },
   {
     "mob": "vampirism:hunter",
+    "mincount": 30,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "crittersandcompanions:dragonfly",
     "mincount": 10,
     "when": "onjoin",
     "result": "deny"
   },
   {
+    "mob": "zombified_piglin",
+    "mincount": 40,
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
     "mob": "crittersandcompanions:otter",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:robin",
     "mincount": 10,
     "result": "deny"
   }

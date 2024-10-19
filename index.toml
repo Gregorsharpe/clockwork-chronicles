@@ -782,7 +782,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "2451ac8e49f67d6ded6c9bd94dbd955fbb0da9aa616c7f6dc175d63b5a9778f9"
+hash = "81e1ef0bcf261e8dce696830e61e4dbbfec2c96f787705d3d2ebc5a4a9725780"
 
 [[files]]
 file = "config/incontrol/spawner.json"
