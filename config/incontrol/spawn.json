@@ -1,0 +1,16 @@
+[
+  {
+    "mob": "sons_of_sins:guzzler",
+    "result": "deny"
+  },
+  {
+    "mob": "vampirism:hunter",
+    "mincount": 10,
+    "result": "deny"
+  },
+  {
+    "mob": "crittersandcompanions:otter",
+    "mincount": 10,
+    "result": "deny"
+  }
+]
