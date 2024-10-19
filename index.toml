@@ -1587,11 +1587,6 @@ hash = "008f4b4782a92c6a8995f26159433659d9b5bdfc5a736614a142666c4d235b3c"
 metafile = true
 
 [[files]]
-file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
-hash = "f30f5b77f7fe1aef3f1c36f4d9febf60c253171bcd6b6b48e8431cbb7616485e"
-metafile = true
-
-[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
@@ -2238,6 +2233,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "78a091260b9222015297aed566ff0302c84a3111f0e168b79bde1927df3d0205"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "a9df7957db29bd5934360117797e75baa6fc0a12a9ef99c1bddb66a7ad30a7ce"
 metafile = true
 
 [[files]]
@@ -3016,6 +3016,11 @@ hash = "361f5915170fc468704db1c693cfac69431b82fdefc380d6d2d7a95242799bb9"
 metafile = true
 
 [[files]]
+file = "mods/oc2r.pw.toml"
+hash = "7236f106f2e0685fce7e3da0b4db936359ca7f3410c47f46c217dd35f719afa5"
+metafile = true
+
+[[files]]
 file = "mods/occultism-delight.pw.toml"
 hash = "c3631afe879dea202aa0c5d33b56d18c0cb2af510443e47a5b085012f736c83d"
 metafile = true
@@ -3237,6 +3242,10 @@ metafile = true
 file = "mods/sebastrnlib.pw.toml"
 hash = "293c2540f4490e6c25a660dfcad115ed952a63c1b66b1dfdaab25f18d0154946"
 metafile = true
+
+[[files]]
+file = "mods/sedna-1.18.2-forge-1.0.15+24e9fd2.jar"
+hash = "606377830a6d0ee945d5dd5c5877738e791580fc95491b3080c6a255e28a35a7"
 
 [[files]]
 file = "mods/selene.pw.toml"
