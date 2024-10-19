@@ -6,6 +6,7 @@
   {
     "mob": "vampirism:hunter",
     "mincount": 10,
+    "when": "onjoin",
     "result": "deny"
   },
   {
