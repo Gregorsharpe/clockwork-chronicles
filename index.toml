@@ -29,6 +29,14 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/ae2/client.json"
+hash = "c1a4e1058ad7970f2f4d83aab93afda83ea713026c8ebc1d63942ee66a6d3c66"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "cea0358c140cd55fd77a9f20216a51399f5bb2b288f4dd0b0bd649d07d3749b4"
+
+[[files]]
 file = "config/akashictome-common.toml"
 hash = "1570c4025fc3501c1c98b8b74883f9274046f7cfd87816a763a517eedcbe8533"
 
