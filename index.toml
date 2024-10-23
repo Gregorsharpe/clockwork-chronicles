@@ -1528,6 +1528,10 @@ file = "kubejs/server_scripts/corail_tombstone.js"
 hash = "7beecd10422c94802ed7b9549eb01198399535be8361656528ef98b079059a6f"
 
 [[files]]
+file = "kubejs/server_scripts/createcraftadditions.js"
+hash = "a4b146265de5ba7042fd21cb89ee0cea4643bd268aed4af86dcb5db0dfd49343"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting.js"
 hash = "4e329219789c6e5590ba520d668b9b23a81ad1ff527f8295a979ec98507efd2c"
 
