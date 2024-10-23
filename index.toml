@@ -1859,6 +1859,11 @@ hash = "89992596a13f85e6d838fb4510dcae1a3401ff2e3e3243f72465ebb9d58e8d2f"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
+metafile = true
+
+[[files]]
 file = "mods/carbon-config.pw.toml"
 hash = "b741a14460455f39b801d112b40e244e1c3e31ba8aa5450ba2adc8a745bb9688"
 metafile = true
@@ -3175,11 +3180,6 @@ metafile = true
 [[files]]
 file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
 hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
-metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
