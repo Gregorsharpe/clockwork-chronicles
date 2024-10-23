@@ -1900,7 +1900,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-chipped-integration.pw.toml"
-hash = "094d80bc45046bfdf75f311d43c0f0aed70dcba202de709f13e74fc88f644675"
+hash = "de56b2621dd980626de0551228154788fd5f9ab2c69dc9c0cd1a6c22c27b20cb"
 metafile = true
 
 [[files]]
