@@ -481,6 +481,10 @@ file = "config/camera-client.toml"
 hash = "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8"
 
 [[files]]
+file = "config/canary.properties"
+hash = "5c9a4fc51e5cf74e455a98e28737aa78233da476bcd3cc52caee7151ca8fdc63"
+
+[[files]]
 file = "config/carbonconfig.cfg"
 hash = "4aa7fe943a5abf6f1e588e39cff07a69dbbdee3cbba30ad14c5c2159db0862c5"
 
