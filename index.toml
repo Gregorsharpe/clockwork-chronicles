@@ -2022,11 +2022,6 @@ hash = "f0db554ba12092ebd6501684fda5de1122bd7cdc5189ba77a7daa0b6e9d63d37"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "4b5c7be23aa7c754d3d375aad8ecb8598ecdf8683804b8489e3202485aa9bda2"
-metafile = true
-
-[[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "408ec8d7207277770c57bedaec051611b2d5a13143391906bb1e7763d6a24f81"
 metafile = true
@@ -3446,6 +3441,10 @@ metafile = true
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
+
+[[files]]
+file = "mods/tombstone-1.20.1-8.8.3.jar"
+hash = "03200efecab8c952cf4d7f2061c96186bbc946f3c5a5b942c2388e57786489a4"
 
 [[files]]
 file = "mods/too-fast.pw.toml"
