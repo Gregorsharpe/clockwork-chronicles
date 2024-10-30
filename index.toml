@@ -1465,6 +1465,10 @@ file = "global_packs/required_resources/Fabulous Foliage.zip"
 hash = "e01ac5ddc3d399642ddec74ea82d604d35143ad27bc390bcb9f612bf82fe252d"
 
 [[files]]
+file = "global_packs/required_resources/MekanismThings_CTM-Fusion_devbuild0.1.zip"
+hash = "fbd69b08f5f31a7ce613c79f9b8a92add79fda56202eaebc8efad3aaa0a9efbd"
+
+[[files]]
 file = "global_packs/required_resources/Meow Society.zip"
 hash = "b3e418438eb472dd698906624507f65b2c4bedf8dab82f3410464361ce23c4ec"
 
@@ -1496,11 +1500,6 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/mekanism-ctm-w-fusion.pw.toml"
-hash = "4d2646100f50ffaa6910504071f0bdb235ae3292f8acf7fb5932d9ab951a115e"
 metafile = true
 
 [[files]]
@@ -2483,6 +2482,11 @@ metafile = true
 [[files]]
 file = "mods/gravitational-modulating-additional-unit.pw.toml"
 hash = "d6272fe2dbacb95bd5e20af6cdb1b5bff93256dc2ac5428e08f57ba0cff8d371"
+metafile = true
+
+[[files]]
+file = "mods/great-scrollable-tooltips.pw.toml"
+hash = "550ad39d2d8cd2e95c6bdaa7bb0289303e9bcc816341b06fa041d97d37126bad"
 metafile = true
 
 [[files]]
